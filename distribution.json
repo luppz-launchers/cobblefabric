@@ -469,6 +469,16 @@
             "MD5": "d777d9756ce571b565bdc2c25ac19a0a",
             "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/waystones-fabric-1.21.1-21.1.25.jar"
           }
+        },
+        {
+          "id": "generated.fabricmod:balm:fabric-1.21.1-21.0.56@jar",
+          "name": "balm-fabric-1.21.1-21.0.56.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 773504,
+            "MD5": "a0a4b73893dead584082d4288ca6fdef",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/balm-fabric-1.21.1-21.0.56.jar"
+          }
         }
       ]
     }
