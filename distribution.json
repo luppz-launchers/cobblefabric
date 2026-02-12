@@ -439,6 +439,16 @@
             "MD5": "284fe61d94ec7203766937e4529d57fb",
             "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/Cobblemon-fabric-1.7.3%2B1.21.1.jar"
           }
+        },
+        {
+          "id": "generated.fabricmod:supplementaries:1.21-3.5.17-fabric@jar",
+          "name": "supplementaries-1.21-3.5.17-fabric.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 13159475,
+            "MD5": "13b79f19d13408e088e3193ccd28a04f",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/supplementaries-1.21-3.5.17-fabric.jar"
+          }
         }
       ]
     }
