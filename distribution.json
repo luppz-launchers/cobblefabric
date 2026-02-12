@@ -109,6 +109,826 @@
               }
             }
           ]
+        },
+        {
+          "id": "generated.fabricmod:spawnnotification:fabric-1.7.1-2.2.1@jar",
+          "name": "spawnnotification-fabric-1.7.1-2.2.1.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 244059,
+            "MD5": "5efc0b2924c5d9d367ea74870911e1e3",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/spawnnotification-fabric-1.7.1-2.2.1.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:spuds:shops-1.21.1-1.9.0@jar",
+          "name": "spuds-shops-1.21.1-1.9.0.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1037914,
+            "MD5": "db1374d486fbc692e12d16715e39c41e",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/spuds-shops-1.21.1-1.9.0.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:supermartijn642corelib:1.1.18a-fabric-mc1.21@jar",
+          "name": "supermartijn642corelib-1.1.18a-fabric-mc1.21.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 572596,
+            "MD5": "ecdad9952149b1a06527c175d9c9fec5",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/supermartijn642corelib-1.1.18a-fabric-mc1.21.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:terrablender:fabric-1.21.1-4.1.0.8@jar",
+          "name": "TerraBlender-fabric-1.21.1-4.1.0.8.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 337990,
+            "MD5": "931822c81aa3138302557d2e3a7ee98f",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/TerraBlender-fabric-1.21.1-4.1.0.8.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:timcore:fabric-1.7.1-1.27.0@jar",
+          "name": "timcore-fabric-1.7.1-1.27.0.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 207417,
+            "MD5": "caa08ef4953ec6247f68a76d938fc939",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/timcore-fabric-1.7.1-1.27.0.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:tmcraft:1.4.18+1.7.1@jar",
+          "name": "tmcraft-1.4.18+1.7.1.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3360581,
+            "MD5": "dba5b94ad756b11fce705db7ae457bd0",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/tmcraft-1.4.18+1.7.1.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:voicechat:fabric-1.21.1-2.6.7@jar",
+          "name": "voicechat-fabric-1.21.1-2.6.7.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 5339701,
+            "MD5": "84789df507a5df785a251f88a7f3a1b0",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/voicechat-fabric-1.21.1-2.6.7.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:xaeros_minimap_25.2.10_fabric_1.21:0.0.0@jar",
+          "name": "Xaeros_Minimap_25.2.10_Fabric_1.21.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1745107,
+            "MD5": "d845c873f130c033b56383b3f72f25d4",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/Xaeros_Minimap_25.2.10_Fabric_1.21.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:xaerosworldmap_1.39.12_fabric_1.21:0.0.0@jar",
+          "name": "XaerosWorldMap_1.39.12_Fabric_1.21.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 976417,
+            "MD5": "bed98bf8a0184dac7a9e4c2e12c2d85a",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/XaerosWorldMap_1.39.12_Fabric_1.21.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-new-currencies-1.0.0-1.21:1.21.1]@jar",
+          "name": "[FABRIC] New Currencies 1.0.0 [1.21-1.21.1].jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 26020,
+            "MD5": "f6aedc55e873f251019198dabb8f4e4d",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/FABRIC.New.Currencies.1.0.0.1.21-1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:accessories:fabric-1.1.0-beta.52+1.21.1@jar",
+          "name": "accessories-fabric-1.1.0-beta.52+1.21.1.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1095894,
+            "MD5": "931e608d7c65c773e8358297a82dabc0",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/accessories-fabric-1.1.0-beta.52+1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:addonslib:fabric-1.21.1-1.11@jar",
+          "name": "addonslib-fabric-1.21.1-1.11.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 129674,
+            "MD5": "f727b80c66ebdf682182fc0b88731468",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/addonslib-fabric-1.21.1-1.11.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:architectury:13.0.8-fabric@jar",
+          "name": "architectury-13.0.8-fabric.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 600915,
+            "MD5": "d0922e70c655489a739eaac8a4ef488a",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/architectury-13.0.8-fabric.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:athena:fabric-1.21-4.0.2@jar",
+          "name": "athena-fabric-1.21-4.0.2.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 82788,
+            "MD5": "fafeae1544a73d3127b2537f45060d6e",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/athena-fabric-1.21-4.0.2.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:badgebox:fabric-1.3.0@jar",
+          "name": "badgebox-fabric-1.3.0.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 74534,
+            "MD5": "99bd37f72e4c46a251f593c60ab5907c",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/badgebox-fabric-1.3.0.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:bountifulblocks:1.21-0.9.6@jar",
+          "name": "bountifulblocks-1.21-0.9.6.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3010531,
+            "MD5": "6bf259fde8ee5d7b5483f02f25550319",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/bountifulblocks-1.21-0.9.6.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:capturexp:fabric-1.7.1-1.3.0@jar",
+          "name": "capturexp-fabric-1.7.1-1.3.0.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 22847,
+            "MD5": "18f188353b54a3002201cc90642ecb18",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/capturexp-fabric-1.7.1-1.3.0.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:cobblecuisine:2.0.1-1.7-rc1@jar",
+          "name": "cobblecuisine-2.0.1-1.7-rc1.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 683115,
+            "MD5": "fab2613dae1816b791edab9d630a2e1f",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/cobblecuisine-2.0.1-1.7-rc1.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:cobbledollars:fabric-2.0.0+Beta-5.1+1.21.1@jar",
+          "name": "CobbleDollars-fabric-2.0.0+Beta-5.1+1.21.1.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 369528,
+            "MD5": "40ad381c82bd54c58d779d10feec95aa",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/CobbleDollars-fabric-2.0.0+Beta-5.1+1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:cobblefurnies:fabric-1.0@jar",
+          "name": "CobbleFurnies-fabric-1.0.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2319618,
+            "MD5": "64d094a1a8d63e7f9f68abde483d934e",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/CobbleFurnies-fabric-1.0.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:cobblemon:additions-4.1.6@jar",
+          "name": "cobblemon-additions-4.1.6.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1961229,
+            "MD5": "cc17fd731e8cf359a3b2a103af52727d",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/cobblemon-additions-4.1.6.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:cobblemon:journey-mounts-1.6@jar",
+          "name": "cobblemon-journey-mounts-1.6.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7085741,
+            "MD5": "52ab7189672ae67c5e3b82353d2acd23",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/cobblemon-journey-mounts-1.6.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:cobblemonmoveinspector:fabric-1.3.0@jar",
+          "name": "CobblemonMoveInspector-fabric-1.3.0.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 27781,
+            "MD5": "c186d92617ee3223888afa7b671f75bb",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/CobblemonMoveInspector-fabric-1.3.0.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:cobblemonraiddens:fabric-0.5.1+1.21.1@jar",
+          "name": "cobblemonraiddens-fabric-0.5.1+1.21.1.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2288982,
+            "MD5": "4d301e9097ab53517141384a9dfcb635",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/cobblemonraiddens-fabric-0.5.1+1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:cobblemonsizevariationfabric:1.4.0+1.7.0@jar",
+          "name": "CobblemonSizeVariationFabric-1.4.0+1.7.0.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 97158,
+            "MD5": "d3985c3f1c500fa1f4c09fee94e51f92",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/CobblemonSizeVariationFabric-1.4.0+1.7.0.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:cobblemon:trainer-battle-1.10.8+1.7.1-hotfix.4@jar",
+          "name": "cobblemon-trainer-battle-1.10.8+1.7.1-hotfix.4.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3981889,
+            "MD5": "6f32b998412c17992ee222b511f85e9a",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/cobblemon-trainer-battle-1.10.8+1.7.1-hotfix.4.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:cobblemon:Utility+-fabric-1.7.2@jar",
+          "name": "Cobblemon-Utility+-fabric-1.7.2.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 137633,
+            "MD5": "f8f5721cef9bde642fc3fe9bf75bcc86",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/Cobblemon-Utility+-fabric-1.7.2.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:cobblenav:fabric-2.2.5@jar",
+          "name": "cobblenav-fabric-2.2.5.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 780131,
+            "MD5": "fba2f1f67e7601ba5c23ebc6504633c1",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/cobblenav-fabric-2.2.5.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:cobbleversebadges:1.3@jar",
+          "name": "CobbleverseBadges-1.3.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 137015,
+            "MD5": "e2819f072ce818f387ddc5573c281d43",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/CobbleverseBadges-1.3.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:crafttweaker:fabric-1.21.1-21.0.35@jar",
+          "name": "CraftTweaker-fabric-1.21.1-21.0.35.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 4175713,
+            "MD5": "4c7209f7337395183c6f3cdee3af30c0",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/CraftTweaker-fabric-1.21.1-21.0.35.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:crd_broadcasts:fabric-1.2.0+1.21.1@jar",
+          "name": "crd_broadcasts-fabric-1.2.0+1.21.1.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1119056,
+            "MD5": "ff8bc3280a262a571e587e89cc0ac888",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/crd_broadcasts-fabric-1.2.0+1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:crd_converters:fabric-1.0.0+1.21.1@jar",
+          "name": "crd_converters-fabric-1.0.0+1.21.1.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1090678,
+            "MD5": "91ee8ba871418763b4d8aadc101745b5",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/crd_converters-fabric-1.0.0+1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:dawn-of-time:fabric-1.21.1-1.6.4@jar",
+          "name": "Dawn Of Time-fabric-1.21.1-1.6.4.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2437471,
+            "MD5": "b28ed8f03e387aa6daadd87e836d759d",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/Dawn.Of.Time-fabric-1.21.1-1.6.4.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:easy_npc_config_ui:fabric-1.21.1-6.0.3@jar",
+          "name": "easy_npc_config_ui-fabric-1.21.1-6.0.3.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 616619,
+            "MD5": "1c7a727b6b9eb263e4d1f2f59be7e0eb",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/easy_npc_config_ui-fabric-1.21.1-6.0.3.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:easy_npc:fabric-1.21.1-6.0.3@jar",
+          "name": "easy_npc-fabric-1.21.1-6.0.3.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1154053,
+            "MD5": "145b34b601bd691b6b72cd58e1ca1dfa",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/easy_npc-fabric-1.21.1-6.0.3.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric:api-0.116.7+1.21.1@jar",
+          "name": "fabric-api-0.116.7+1.21.1.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2424884,
+            "MD5": "1f4b846d39676f5a10e81259ed3aae43",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/fabric-api-0.116.7+1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:farmersdelight:1.21.1-3.2.2+refabricated@jar",
+          "name": "FarmersDelight-1.21.1-3.2.2+refabricated.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3129714,
+            "MD5": "285ff61d6da0daa72b08330d09902e26",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/FarmersDelight-1.21.1-3.2.2+refabricated.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fauxcustomentitydata:fabric-1.21.1-13.0.1@jar",
+          "name": "FauxCustomEntityData-fabric-1.21.1-13.0.1.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 15966,
+            "MD5": "2fd82a15fdb20ad287d3bc34e7ddd5ba",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/FauxCustomEntityData-fabric-1.21.1-13.0.1.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:ferritecore:7.0.2-hotfix-fabric@jar",
+          "name": "ferritecore-7.0.2-hotfix-fabric.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 120709,
+            "MD5": "fd1e386dbb1cde51d37080db5525f346",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/ferritecore-7.0.2-hotfix-fabric.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:flashback:0.38.2-for-MC1.21.1@jar",
+          "name": "Flashback-0.38.2-for-MC1.21.1.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 211679857,
+            "MD5": "5b4c3ed324b8a887efd052fd4dfa05ba",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/Flashback-0.38.2-for-MC1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:forgeconfigapiport:v21.1.6-1.21.1-Fabric@jar",
+          "name": "ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 633065,
+            "MD5": "f9a7a1eb986e97d9b59e2b3a87e015e9",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fusion:1.2.11-fabric-mc1.21@jar",
+          "name": "fusion-1.2.11-fabric-mc1.21.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 515564,
+            "MD5": "d1ccecb7aa11295e9abb7da7659ace22",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/fusion-1.2.11-fabric-mc1.21.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:geckolib:fabric-1.21.1-4.8.2@jar",
+          "name": "geckolib-fabric-1.21.1-4.8.2.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 652999,
+            "MD5": "33f4c6ff8104ed30e810c1a57f0c3174",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/geckolib-fabric-1.21.1-4.8.2.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:glitchcore:fabric-1.21.1-2.1.0.0@jar",
+          "name": "GlitchCore-fabric-1.21.1-2.1.0.0.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 329188,
+            "MD5": "55952cb7acd5dfe3ec43e81631530a7c",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/GlitchCore-fabric-1.21.1-2.1.0.0.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:handcrafted:fabric-1.21.1-4.0.3@jar",
+          "name": "handcrafted-fabric-1.21.1-4.0.3.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7127377,
+            "MD5": "fef2e44aeeea716a0ecee3ad9779dbb1",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/handcrafted-fabric-1.21.1-4.0.3.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:iris:fabric-1.8.8+mc1.21.1@jar",
+          "name": "iris-fabric-1.8.8+mc1.21.1.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2690177,
+            "MD5": "09fe79110e97bab92559ed845ae6df9a",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/iris-fabric-1.8.8+mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:jade:1.21.1-Fabric-15.10.2@jar",
+          "name": "Jade-1.21.1-Fabric-15.10.2.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 739001,
+            "MD5": "183cf9bd6591a06e4f0c524733a2656e",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/Jade-1.21.1-Fabric-15.10.2.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:jei:1.21.1-fabric-19.25.1.332@jar",
+          "name": "jei-1.21.1-fabric-19.25.1.332.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1548978,
+            "MD5": "b5bb588fe6d922786ee504312262427f",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/jei-1.21.1-fabric-19.25.1.332.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:lithium:fabric-0.15.1+mc1.21.1@jar",
+          "name": "lithium-fabric-0.15.1+mc1.21.1.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 772848,
+            "MD5": "6cfce780e0b0be2c58a2f897a8d0cc80",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/lithium-fabric-0.15.1+mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:luckys:Cozyhome-Refurnished-1.1.20@jar",
+          "name": "Luckys-Cozyhome-Refurnished-1.1.20.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3121070,
+            "MD5": "0ccd32c471dcf8e79d55cd5acf24d544",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/Luckys-Cozyhome-Refurnished-1.1.20.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:lumymon:0.5.1@jar",
+          "name": "LumyMon-0.5.1.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1207030,
+            "MD5": "c4c1dbd81ffb5690ebf5ed9b4ecb876d",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/LumyMon-0.5.1.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:malilib:fabric-1.21-0.21.9@jar",
+          "name": "malilib-fabric-1.21-0.21.9.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1207522,
+            "MD5": "db2b203bd0427bdbb27b3b347f9aea5d",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/malilib-fabric-1.21-0.21.9.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:mcw:bridges-3.1.0-mc1.21.1fabric@jar",
+          "name": "mcw-bridges-3.1.0-mc1.21.1fabric.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 656977,
+            "MD5": "c6f5f65f5b364105d7bc08cd8e3833d9",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/mcw-bridges-3.1.0-mc1.21.1fabric.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:mcw:doors-1.1.2-mc1.21.1fabric@jar",
+          "name": "mcw-doors-1.1.2-mc1.21.1fabric.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1223064,
+            "MD5": "7fac51e95da451a05b359ffd229e8dcd",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/mcw-doors-1.1.2-mc1.21.1fabric.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:mcw:furniture-3.4.1-mc1.21.1fabric@jar",
+          "name": "mcw-furniture-3.4.1-mc1.21.1fabric.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2087232,
+            "MD5": "af1ca8d2d97be5075a1f5644efd3dba6",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/mcw-furniture-3.4.1-mc1.21.1fabric.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:mcw:holidays-1.1.2-mc1.21.1fabric@jar",
+          "name": "mcw-holidays-1.1.2-mc1.21.1fabric.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 999600,
+            "MD5": "9ce996407f9c06f292be33f800b9f5c9",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/mcw-holidays-1.1.2-mc1.21.1fabric.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:mcw:lights-1.1.5-mc1.21.1fabric@jar",
+          "name": "mcw-lights-1.1.5-mc1.21.1fabric.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 514085,
+            "MD5": "ee34e5942bd767172f717351fab0406f",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/mcw-lights-1.1.5-mc1.21.1fabric.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:mcw:mcwfences-1.2.1-mc1.21.1fabric@jar",
+          "name": "mcw-mcwfences-1.2.1-mc1.21.1fabric.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 651571,
+            "MD5": "24813be43e787a5ce3a02e6d72b1394c",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/mcw-mcwfences-1.2.1-mc1.21.1fabric.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:mcw:mcwpaths-1.1.1-mc1.21.1fabric@jar",
+          "name": "mcw-mcwpaths-1.1.1-mc1.21.1fabric.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 767811,
+            "MD5": "3b0171035891325d32b015b00289eb03",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/mcw-mcwpaths-1.1.1-mc1.21.1fabric.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:mcw:mcwstairs-1.0.2-mc1.21.1fabric@jar",
+          "name": "mcw-mcwstairs-1.0.2-mc1.21.1fabric.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 521922,
+            "MD5": "3d42cc4b1c6ced903f0c8506f9e26cb9",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/mcw-mcwstairs-1.0.2-mc1.21.1fabric.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:mcw:mcwwindows-2.4.2-mc1.21.1fabric@jar",
+          "name": "mcw-mcwwindows-2.4.2-mc1.21.1fabric.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1278810,
+            "MD5": "b7fea637def2667ad96522d563663f24",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/mcw-mcwwindows-2.4.2-mc1.21.1fabric.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:mcw:paintings-1.0.5-1.21.1fabric@jar",
+          "name": "mcw-paintings-1.0.5-1.21.1fabric.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 67933,
+            "MD5": "3d615f8b3d5f0a7be98bc07b9b79274f",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/mcw-paintings-1.0.5-1.21.1fabric.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:mcw:roofs-2.3.2-mc1.21.1fabric@jar",
+          "name": "mcw-roofs-2.3.2-mc1.21.1fabric.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1790000,
+            "MD5": "9ce5383faa02011d7352bc0b1cf2f490",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/mcw-roofs-2.3.2-mc1.21.1fabric.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:mcw:trapdoors-1.1.5-mc1.21.1fabric@jar",
+          "name": "mcw-trapdoors-1.1.5-mc1.21.1fabric.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 568267,
+            "MD5": "36ac07ec1ccd4f4d7d030acd5d3a3f0c",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/mcw-trapdoors-1.1.5-mc1.21.1fabric.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:mega_showdown:fabric-1.4.4+1.7.1+1.21.1@jar",
+          "name": "mega_showdown-fabric-1.4.4+1.7.1+1.21.1.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 15865540,
+            "MD5": "b15359a0c4f8a566a354bfed9c8df60c",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/mega_showdown-fabric-1.4.4+1.7.1+1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:mobsbegone:0.0.7@jar",
+          "name": "MobsBeGone-0.0.7.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 9837,
+            "MD5": "91db9559043b92725f6ee776e1e65683",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/MobsBeGone-0.0.7.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:modernfix:fabric-5.25.1+mc1.21.1@jar",
+          "name": "modernfix-fabric-5.25.1+mc1.21.1.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 471258,
+            "MD5": "890c2617b4b74140fdf2b1a18b1a8f1a",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/modernfix-fabric-5.25.1+mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:monolib:fabric-1.21.1-2.1.0@jar",
+          "name": "monolib-fabric-1.21.1-2.1.0.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 194610,
+            "MD5": "5d682f1b7f17ddde4dd4cab303d25f33",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/monolib-fabric-1.21.1-2.1.0.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:only-bottle-caps:1.3.0@jar",
+          "name": "Only Bottle Caps-1.3.0.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 250451,
+            "MD5": "0dd18023c1f17c34eef9fd8d99f529c4",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/Only.Bottle.Caps-1.3.0.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:owo:lib-0.12.15.4+1.21@jar",
+          "name": "owo-lib-0.12.15.4+1.21.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1183559,
+            "MD5": "e1ae27362ae111718f92668cba3f7a5d",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/owo-lib-0.12.15.4+1.21.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:playerxp:fabric-1.0.3+1.21.1@jar",
+          "name": "playerxp-fabric-1.0.3+1.21.1.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 6953,
+            "MD5": "209a2cb0581c93da5769e64620d2a4c0",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/playerxp-fabric-1.0.3+1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:pokeblocks:1.4.0-1.21.1@jar",
+          "name": "pokeblocks-1.4.0-1.21.1.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1606467,
+            "MD5": "4a3476a5b671f49a7a43477b632adddc",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/pokeblocks-1.4.0-1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:rctapi:fabric-1.21.1-0.14.4-beta@jar",
+          "name": "rctapi-fabric-1.21.1-0.14.4-beta.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 207967,
+            "MD5": "4a99c3436fd399a956e540d16bbb07e3",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/rctapi-fabric-1.21.1-0.14.4-beta.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:rctmod:fabric-1.21.1-0.17.4-beta@jar",
+          "name": "rctmod-fabric-1.21.1-0.17.4-beta.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 4735029,
+            "MD5": "0f63cb8f33e77f5be92ab249dbb30c47",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/rctmod-fabric-1.21.1-0.17.4-beta.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:rechiseled:1.1.6b-fabric-mc1.21@jar",
+          "name": "rechiseled-1.1.6b-fabric-mc1.21.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3585470,
+            "MD5": "da02ae58da38c8309eeb11116ae2ad8b",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/rechiseled-1.1.6b-fabric-mc1.21.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:resourcefullib:fabric-1.21-3.0.12@jar",
+          "name": "resourcefullib-fabric-1.21-3.0.12.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 485586,
+            "MD5": "24c4da897874768b0fc0fb005e8263a0",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/resourcefullib-fabric-1.21-3.0.12.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:sodium:fabric-0.6.13+mc1.21.1@jar",
+          "name": "sodium-fabric-0.6.13+mc1.21.1.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1297761,
+            "MD5": "00ba37aa6bafa14870134b5584d4ca88",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/sodium-fabric-0.6.13+mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:sophisticatedbackpacks:1.21.1-3.23.4.3.106@jar",
+          "name": "sophisticatedbackpacks-1.21.1-3.23.4.3.106.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 988478,
+            "MD5": "dd4670aeadf15038e9d79b3a8acbb154",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/sophisticatedbackpacks-1.21.1-3.23.4.3.106.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:sophisticatedcore:1.21.1-1.2.9.20.164@jar",
+          "name": "sophisticatedcore-1.21.1-1.2.9.20.164.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2995929,
+            "MD5": "182ce1e9eafaa576a7620f3ccff56e0d",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/sophisticatedcore-1.21.1-1.2.9.20.164.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:sophisticatedstorage:1.21.1-1.3.7.8.135@jar",
+          "name": "sophisticatedstorage-1.21.1-1.3.7.8.135.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1668357,
+            "MD5": "34ba3eca8afe17fa0fdc1fc7557f82d2",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/sophisticatedstorage-1.21.1-1.3.7.8.135.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:sophisticatedstorageinmotion:1.21.1-0.10.5.1.38@jar",
+          "name": "sophisticatedstorageinmotion-1.21.1-0.10.5.1.38.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 489882,
+            "MD5": "df70ddfc3ffc179c28e82bb75c4fe054",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/sophisticatedstorageinmotion-1.21.1-0.10.5.1.38.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:soundsbegone:1.3.5@jar",
+          "name": "soundsbegone-1.3.5.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2737327,
+            "MD5": "2e86069f3593a63e1f99357b7124bab5",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/soundsbegone-1.3.5.jar"
+          }
         }
       ]
     }
