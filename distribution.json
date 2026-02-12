@@ -127,7 +127,7 @@
           "artifact": {
             "size": 1095894,
             "MD5": "931e608d7c65c773e8358297a82dabc0",
-            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/accessories-fabric-1.1.0-beta.52%2B1.21.1.jar"
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/accessories-fabric-1.1.0-beta.52+1.21.1.jar"
           }
         },
         {
@@ -147,7 +147,7 @@
           "artifact": {
             "size": 15865540,
             "MD5": "b15359a0c4f8a566a354bfed9c8df60c",
-            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/mega_showdown-fabric-1.4.4%2B1.7.1%2B1.21.1.jar"
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/mega_showdown-fabric-1.4.4+1.7.1+1.21.1.jar"
           }
         },
         {
@@ -157,7 +157,7 @@
           "artifact": {
             "size": 2690177,
             "MD5": "09fe79110e97bab92559ed845ae6df9a",
-            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/iris-fabric-1.8.8%2Bmc1.21.1.jar"
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/iris-fabric-1.8.8+mc1.21.1.jar"
           }
         },
         {
@@ -167,7 +167,7 @@
           "artifact": {
             "size": 1297761,
             "MD5": "00ba37aa6bafa14870134b5584d4ca88",
-            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/sodium-fabric-0.6.13%2Bmc1.21.1.jar"
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/sodium-fabric-0.6.13+mc1.21.1.jar"
           }
         },
         {
@@ -177,7 +177,7 @@
           "artifact": {
             "size": 2424884,
             "MD5": "1f4b846d39676f5a10e81259ed3aae43",
-            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/fabric-api-0.116.7%2B1.21.1.jar"
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/fabric-api-0.116.7+1.21.1.jar"
           }
         },
         {
@@ -197,7 +197,7 @@
           "artifact": {
             "size": 471258,
             "MD5": "890c2617b4b74140fdf2b1a18b1a8f1a",
-            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/modernfix-fabric-5.25.1%2Bmc1.21.1.jar"
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/modernfix-fabric-5.25.1+mc1.21.1.jar"
           }
         },
         {
@@ -217,7 +217,7 @@
           "artifact": {
             "size": 772848,
             "MD5": "6cfce780e0b0be2c58a2f897a8d0cc80",
-            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/lithium-fabric-0.15.1%2Bmc1.21.1.jar"
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/lithium-fabric-0.15.1+mc1.21.1.jar"
           }
         },
         {
@@ -227,7 +227,7 @@
           "artifact": {
             "size": 3129714,
             "MD5": "285ff61d6da0daa72b08330d09902e26",
-            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/FarmersDelight-1.21.1-3.2.2%2Brefabricated.jar"
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/FarmersDelight-1.21.1-3.2.2+refabricated.jar"
           }
         },
         {
@@ -267,7 +267,7 @@
           "artifact": {
             "size": 1090678,
             "MD5": "91ee8ba871418763b4d8aadc101745b5",
-            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/crd_converters-fabric-1.0.0%2B1.21.1.jar"
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/crd_converters-fabric-1.0.0+1.21.1.jar"
           }
         },
         {
@@ -347,7 +347,7 @@
           "artifact": {
             "size": 6953,
             "MD5": "209a2cb0581c93da5769e64620d2a4c0",
-            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/playerxp-fabric-1.0.3%2B1.21.1.jar"
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/playerxp-fabric-1.0.3+1.21.1.jar"
           }
         },
         {
@@ -747,7 +747,7 @@
           "artifact": {
             "size": 3360581,
             "MD5": "dba5b94ad756b11fce705db7ae457bd0",
-            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/tmcraft-1.4.18%2B1.7.1.jar"
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/tmcraft-1.4.18+1.7.1.jar"
           }
         },
         {
@@ -767,7 +767,7 @@
           "artifact": {
             "size": 1119056,
             "MD5": "ff8bc3280a262a571e587e89cc0ac888",
-            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/crd_broadcasts-fabric-1.2.0%2B1.21.1.jar"
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/crd_broadcasts-fabric-1.2.0+1.21.1.jar"
           }
         },
         {
@@ -777,7 +777,7 @@
           "artifact": {
             "size": 137633,
             "MD5": "f8f5721cef9bde642fc3fe9bf75bcc86",
-            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/Cobblemon-Utility%2B-fabric-1.7.2.jar"
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/Cobblemon-Utility+-fabric-1.7.2.jar"
           }
         },
         {
@@ -807,7 +807,7 @@
           "artifact": {
             "size": 2288982,
             "MD5": "4d301e9097ab53517141384a9dfcb635",
-            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/cobblemonraiddens-fabric-0.5.1%2B1.21.1.jar"
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/cobblemonraiddens-fabric-0.5.1+1.21.1.jar"
           }
         },
         {
@@ -817,7 +817,7 @@
           "artifact": {
             "size": 3981889,
             "MD5": "6f32b998412c17992ee222b511f85e9a",
-            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/cobblemon-trainer-battle-1.10.8%2B1.7.1-hotfix.4.jar"
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/cobblemon-trainer-battle-1.10.8+1.7.1-hotfix.4.jar"
           }
         },
         {
@@ -837,7 +837,7 @@
           "artifact": {
             "size": 97158,
             "MD5": "d3985c3f1c500fa1f4c09fee94e51f92",
-            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/CobblemonSizeVariationFabric-1.4.0%2B1.7.0.jar"
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/CobblemonSizeVariationFabric-1.4.0+1.7.0.jar"
           }
         },
         {
@@ -897,7 +897,7 @@
           "artifact": {
             "size": 369528,
             "MD5": "40ad381c82bd54c58d779d10feec95aa",
-            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/CobbleDollars-fabric-2.0.0%2BBeta-5.1%2B1.21.1.jar"
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/CobbleDollars-fabric-2.0.0+Beta-5.1+1.21.1.jar"
           }
         },
         {
@@ -907,7 +907,7 @@
           "artifact": {
             "size": 1183559,
             "MD5": "e1ae27362ae111718f92668cba3f7a5d",
-            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/owo-lib-0.12.15.4%2B1.21.jar"
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/owo-lib-0.12.15.4+1.21.jar"
           }
         },
         {
