@@ -489,6 +489,36 @@
             "MD5": "36ea4f4a73abc8ab19cc7116de5f05fd",
             "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/DustyDecoRefabricated-1.1-1.21%2B1.21.1.jar"
           }
+        },
+        {
+          "id": "generated.fabricmod:biomesoplenty:fabric-1.21.1-21.1.0.13@jar",
+          "name": "BiomesOPlenty-fabric-1.21.1-21.1.0.13.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 22349734,
+            "MD5": "9a12cdfd2790d9cc424a19eaafe42982",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/BiomesOPlenty-fabric-1.21.1-21.1.0.13.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:glitchcore:fabric-1.21.1-2.1.0.0@jar",
+          "name": "GlitchCore-fabric-1.21.1-2.1.0.0.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 329188,
+            "MD5": "eef7bf85c0a002bee4c4db023dc35e9a",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/GlitchCore-fabric-1.21.1-2.1.0.0.jar"
+          }
+        },
+        {
+          "id": "generated.fabricmod:terrablender:fabric-1.21.1-4.1.0.8@jar",
+          "name": "TerraBlender-fabric-1.21.1-4.1.0.8.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 337989,
+            "MD5": "a89e9fcffef8d70c75e1bbbe8fb6232f",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/TerraBlender-fabric-1.21.1-4.1.0.8.jar"
+          }
         }
       ]
     }
