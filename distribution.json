@@ -459,6 +459,16 @@
             "MD5": "a0c9cdd61e102d4eab2a7cc6c1ce3d89",
             "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/moonlight-1.21-2.29.16-fabric.jar"
           }
+        },
+        {
+          "id": "generated.fabricmod:waystones:fabric-1.21.1-21.1.25@jar",
+          "name": "waystones-fabric-1.21.1-21.1.25.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 887695,
+            "MD5": "d777d9756ce571b565bdc2c25ac19a0a",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/waystones-fabric-1.21.1-21.1.25.jar"
+          }
         }
       ]
     }
