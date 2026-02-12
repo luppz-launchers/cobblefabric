@@ -479,6 +479,16 @@
             "MD5": "a0a4b73893dead584082d4288ca6fdef",
             "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/balm-fabric-1.21.1-21.0.56.jar"
           }
+        },
+        {
+          "id": "generated.fabricmod:dustydecorefabricated:1.1-1.21+1.21.1@jar",
+          "name": "DustyDecoRefabricated-1.1-1.21+1.21.1.jar",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 538912,
+            "MD5": "36ea4f4a73abc8ab19cc7116de5f05fd",
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/DustyDecoRefabricated-1.1-1.21%2B1.21.1.jar"
+          }
         }
       ]
     }
