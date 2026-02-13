@@ -12,12 +12,9 @@
       "minecraftVersion": "1.21.1",
       "mainServer": false,
       "autoconnect": false,
-      "fabric": {
-        "version": "0.18.4"
-      },
       "modules": [
         {
-          "id": "net.fabricmc:fabric-loader:0.18.4",
+          "id": "nebula.fabric:fabricfabric-loader:1.0.0@jar",
           "name": "Fabric (fabric-loader)",
           "type": "Fabric",
           "classpath": true,
@@ -204,12 +201,9 @@
       "minecraftVersion": "1.21.1",
       "mainServer": false,
       "autoconnect": false,
-      "fabric": {
-        "version": "0.18.4"
-      },
       "modules": [
         {
-          "id": "net.fabricmc:fabric-loader:0.18.4",
+          "id": "nebula.fabric:fabricfabric-loader:1.0.0@jar",
           "name": "Fabric (fabric-loader)",
           "type": "Fabric",
           "classpath": true,
