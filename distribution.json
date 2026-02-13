@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
+  "servers": [
+    {
+      "id": "cobblefabric",
+      "name": "Cobble Torneio",
+      "description": "Cobble Torneio Server",
+      "icon": "https://cdn.discordapp.com/attachments/1350975796155515034/1468331179685056573/Logo_Pixeis_DoOutroLado.png?ex=698ed639&is=698d84b9&hm=3f0784ddc5c3c08048800c2456ef9f644ea5fb17f8c19eaf59467d02d67f4c2e&",
+      "version": "1.0.0",
+      "address": "cobbletournament.redmc.com.br",
+      "minecraftVersion": "1.20.1",
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": []
+    }
+  ]
+}
