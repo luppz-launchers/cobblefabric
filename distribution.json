@@ -1311,6 +1311,4290 @@
             "MD5": "8bd9c4bf34b5f14db96c76b9c06001f8",
             "size": 31681
           }
+        },
+        {
+          "id": "nebula.file:accessories.json5:1.0.0@jar",
+          "name": "accessories.json5",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/accessories.json5",
+            "path": "config/accessories.json5",
+            "MD5": "4324a1d110d6d84a44df08c3d80efed6",
+            "size": 919
+          }
+        },
+        {
+          "id": "nebula.file:addonslib-common.json:1.0.0@jar",
+          "name": "addonslib-common.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/addonslib-common.json",
+            "path": "config/addonslib-common.json",
+            "MD5": "c5dec83912fd0b1579650839d5449098",
+            "size": 19
+          }
+        },
+        {
+          "id": "nebula.file:advancementdisable.toml:1.0.0@jar",
+          "name": "advancementdisable.toml",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/advancementdisable.toml",
+            "path": "config/advancementdisable.toml",
+            "MD5": "6086e7577c483d337d9a26dc1d4728f1",
+            "size": 72
+          }
+        },
+        {
+          "id": "nebula.file:advancementplaques.toml:1.0.0@jar",
+          "name": "advancementplaques.toml",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/advancementplaques.toml",
+            "path": "config/advancementplaques.toml",
+            "MD5": "9913055ba653d719d5bea1c082e12276",
+            "size": 3017
+          }
+        },
+        {
+          "id": "nebula.file:balm-client.toml:1.0.0@jar",
+          "name": "balm-client.toml",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/balm-client.toml",
+            "path": "config/balm-client.toml",
+            "MD5": "6066bdd07ad41b9d8d62518636ace718",
+            "size": 786
+          }
+        },
+        {
+          "id": "nebula.file:balm-common.toml:1.0.0@jar",
+          "name": "balm-common.toml",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/balm-common.toml",
+            "path": "config/balm-common.toml",
+            "MD5": "6066bdd07ad41b9d8d62518636ace718",
+            "size": 786
+          }
+        },
+        {
+          "id": "nebula.file:beautify.json:1.0.0@jar",
+          "name": "beautify.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/beautify.json",
+            "path": "config/beautify.json",
+            "MD5": "294ebf4cb3e962ae75ef486f407080cf",
+            "size": 118
+          }
+        },
+        {
+          "id": "nebula.file:betterf3.json:1.0.0@jar",
+          "name": "betterf3.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/betterf3.json",
+            "path": "config/betterf3.json",
+            "MD5": "0b5cacfc839fdbec457b224c11a124bd",
+            "size": 2528
+          }
+        },
+        {
+          "id": "nebula.file:betterthirdperson.json5:1.0.0@jar",
+          "name": "betterthirdperson.json5",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/betterthirdperson.json5",
+            "path": "config/betterthirdperson.json5",
+            "MD5": "095c36ffe4d7d12a80aaeec4101f2c90",
+            "size": 640
+          }
+        },
+        {
+          "id": "nebula.file:biome_toggles.json:1.0.0@jar",
+          "name": "biome_toggles.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/biomesoplenty/biome_toggles.json",
+            "path": "config/biomesoplenty/biome_toggles.json",
+            "MD5": "0e4557a6478935daab47223d35c2de32",
+            "size": 2192
+          }
+        },
+        {
+          "id": "nebula.file:gameplay.toml:1.0.0@jar",
+          "name": "gameplay.toml",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/biomesoplenty/gameplay.toml",
+            "path": "config/biomesoplenty/gameplay.toml",
+            "MD5": "364a5eb0acc8cd9e66abef0d62d0a947",
+            "size": 109
+          }
+        },
+        {
+          "id": "nebula.file:generation.toml:1.0.0@jar",
+          "name": "generation.toml",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/biomesoplenty/generation.toml",
+            "path": "config/biomesoplenty/generation.toml",
+            "MD5": "c55977a668ea46732d3f00a9ab10ad21",
+            "size": 521
+          }
+        },
+        {
+          "id": "nebula.file:biome_replacer.properties:1.0.0@jar",
+          "name": "biome_replacer.properties",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/biome_replacer.properties",
+            "path": "config/biome_replacer.properties",
+            "MD5": "ddd084065e5a3e75995c2f4ce9e5df06",
+            "size": 2198
+          }
+        },
+        {
+          "id": "nebula.file:brb.toml:1.0.0@jar",
+          "name": "brb.toml",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/brb.toml",
+            "path": "config/brb.toml",
+            "MD5": "c339b5e4ae0f50b073b058f66c06487e",
+            "size": 296
+          }
+        },
+        {
+          "id": "nebula.file:capture_xp.json:1.0.0@jar",
+          "name": "capture_xp.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/capture_xp.json",
+            "path": "config/capture_xp.json",
+            "MD5": "31fe491a211b9c9be30e865aaa0a5cef",
+            "size": 204
+          }
+        },
+        {
+          "id": "nebula.file:cardinal-components-api.properties:1.0.0@jar",
+          "name": "cardinal-components-api.properties",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/cardinal-components-api.properties",
+            "path": "config/cardinal-components-api.properties",
+            "MD5": "7a5c42bb5538c774652ad99f2a3b0078",
+            "size": 452
+          }
+        },
+        {
+          "id": "nebula.file:default.json:1.0.0@jar",
+          "name": "default.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/cobble-gacha-machine/default.json",
+            "path": "config/cobble-gacha-machine/default.json",
+            "MD5": "92f33faac4896fbb7e36c0689684b0e6",
+            "size": 1073
+          }
+        },
+        {
+          "id": "nebula.file:cobblecuisine.json:1.0.0@jar",
+          "name": "cobblecuisine.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/cobblecuisine.json",
+            "path": "config/cobblecuisine.json",
+            "MD5": "52edb2a856e724279bd29dba2a768a81",
+            "size": 3917
+          }
+        },
+        {
+          "id": "nebula.file:bank.json:1.0.0@jar",
+          "name": "bank.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/cobbledollars/bank.json",
+            "path": "config/cobbledollars/bank.json",
+            "MD5": "350572e56100d57e88bd79510eeb310e",
+            "size": 2031
+          }
+        },
+        {
+          "id": "nebula.file:client.json:1.0.0@jar",
+          "name": "client.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/cobbledollars/client.json",
+            "path": "config/cobbledollars/client.json",
+            "MD5": "10dc29fe21361c8c2f0715d4b32cc18a",
+            "size": 39
+          }
+        },
+        {
+          "id": "nebula.file:common.json:1.0.0@jar",
+          "name": "common.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/cobbledollars/common.json",
+            "path": "config/cobbledollars/common.json",
+            "MD5": "ac51327a3758802491da0f4caae15061",
+            "size": 155
+          }
+        },
+        {
+          "id": "nebula.file:default_shop.json:1.0.0@jar",
+          "name": "default_shop.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/cobbledollars/default_shop.json",
+            "path": "config/cobbledollars/default_shop.json",
+            "MD5": "8ae419e4fe4364481df8583681b15ec5",
+            "size": 5510
+          }
+        },
+        {
+          "id": "nebula.file:main.json:1.0.0@jar",
+          "name": "main.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/cobblemon/main.json",
+            "path": "config/cobblemon/main.json",
+            "MD5": "c68c2c38b3ec6299f918df2a2545443a",
+            "size": 3367
+          }
+        },
+        {
+          "id": "nebula.file:starters.json:1.0.0@jar",
+          "name": "starters.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/cobblemon/starters.json",
+            "path": "config/cobblemon/starters.json",
+            "MD5": "40fdf87890e474ba11e472a300e33937",
+            "size": 2775
+          }
+        },
+        {
+          "id": "nebula.file:cobblemon-additions.json:1.0.0@jar",
+          "name": "cobblemon-additions.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/cobblemon-additions/cobblemon-additions.json",
+            "path": "config/cobblemon-additions/cobblemon-additions.json",
+            "MD5": "cdce1898db494690e875f4539634f5af",
+            "size": 361
+          }
+        },
+        {
+          "id": "nebula.file:cobblemonboxlink.json:1.0.0@jar",
+          "name": "cobblemonboxlink.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/cobblemonboxlink.json",
+            "path": "config/cobblemonboxlink.json",
+            "MD5": "abe2aeb6bcaddc3510592b2dd554bfbf",
+            "size": 38
+          }
+        },
+        {
+          "id": "nebula.file:blacklist.json5:1.0.0@jar",
+          "name": "blacklist.json5",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/cobblemonraiddens/blacklist.json5",
+            "path": "config/cobblemonraiddens/blacklist.json5",
+            "MD5": "0e8e25d2655f6ce2d160e5d9c4c3670d",
+            "size": 696
+          }
+        },
+        {
+          "id": "nebula.file:client.json5:1.0.0@jar",
+          "name": "client.json5",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/cobblemonraiddens/client.json5",
+            "path": "config/cobblemonraiddens/client.json5",
+            "MD5": "3d106461c1b4dafd8f6a779623a96516",
+            "size": 719
+          }
+        },
+        {
+          "id": "nebula.file:common.json5:1.0.0@jar",
+          "name": "common.json5",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/cobblemonraiddens/common.json5",
+            "path": "config/cobblemonraiddens/common.json5",
+            "MD5": "156eac1e1bf24b83e10c8f93eb31da5b",
+            "size": 1167
+          }
+        },
+        {
+          "id": "nebula.file:tier_five.json5:1.0.0@jar",
+          "name": "tier_five.json5",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/cobblemonraiddens/tier_five.json5",
+            "path": "config/cobblemonraiddens/tier_five.json5",
+            "MD5": "2ed1274e44c5b74eca9045cdadb5d47c",
+            "size": 1588
+          }
+        },
+        {
+          "id": "nebula.file:tier_four.json5:1.0.0@jar",
+          "name": "tier_four.json5",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/cobblemonraiddens/tier_four.json5",
+            "path": "config/cobblemonraiddens/tier_four.json5",
+            "MD5": "3554954b8ccb1dec3374b6f015261be6",
+            "size": 1588
+          }
+        },
+        {
+          "id": "nebula.file:tier_one.json5:1.0.0@jar",
+          "name": "tier_one.json5",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/cobblemonraiddens/tier_one.json5",
+            "path": "config/cobblemonraiddens/tier_one.json5",
+            "MD5": "99ac3a9bba67162e28ce461944633a2e",
+            "size": 1584
+          }
+        },
+        {
+          "id": "nebula.file:tier_seven.json5:1.0.0@jar",
+          "name": "tier_seven.json5",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/cobblemonraiddens/tier_seven.json5",
+            "path": "config/cobblemonraiddens/tier_seven.json5",
+            "MD5": "e2871d01482356d63a407092ec6b0c91",
+            "size": 1594
+          }
+        },
+        {
+          "id": "nebula.file:tier_six.json5:1.0.0@jar",
+          "name": "tier_six.json5",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/cobblemonraiddens/tier_six.json5",
+            "path": "config/cobblemonraiddens/tier_six.json5",
+            "MD5": "ebb9d60c183a4269e38fb9a62d4c168b",
+            "size": 1588
+          }
+        },
+        {
+          "id": "nebula.file:tier_three.json5:1.0.0@jar",
+          "name": "tier_three.json5",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/cobblemonraiddens/tier_three.json5",
+            "path": "config/cobblemonraiddens/tier_three.json5",
+            "MD5": "957a60b95575fdb493f2cc5c12539025",
+            "size": 1584
+          }
+        },
+        {
+          "id": "nebula.file:tier_two.json5:1.0.0@jar",
+          "name": "tier_two.json5",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/cobblemonraiddens/tier_two.json5",
+            "path": "config/cobblemonraiddens/tier_two.json5",
+            "MD5": "75c9a921ec433300301a221a9146c7de",
+            "size": 1584
+          }
+        },
+        {
+          "id": "nebula.file:config.json:1.0.0@jar",
+          "name": "config.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/cobblemonsizevariation/config.json",
+            "path": "config/cobblemonsizevariation/config.json",
+            "MD5": "7f8e1a776184042ecb8bf83d35f1f8ce",
+            "size": 387
+          }
+        },
+        {
+          "id": "nebula.file:basic.json:1.0.0@jar",
+          "name": "basic.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/cobblemonsizevariation/sizes/basic.json",
+            "path": "config/cobblemonsizevariation/sizes/basic.json",
+            "MD5": "0e4c6263ab248aa4317b7825372667e4",
+            "size": 703
+          }
+        },
+        {
+          "id": "nebula.file:gen9.json:1.0.0@jar",
+          "name": "gen9.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/cobblemonsizevariation/sizes/gen9.json",
+            "path": "config/cobblemonsizevariation/sizes/gen9.json",
+            "MD5": "79afe84e2fc2a47aaa459e7d43c60ba4",
+            "size": 967
+          }
+        },
+        {
+          "id": "nebula.file:client-config.json:1.0.0@jar",
+          "name": "client-config.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/cobblenav/client-config.json",
+            "path": "config/cobblenav/client-config.json",
+            "MD5": "509132b64ca0350d0464c8f5d06ff4f0",
+            "size": 416
+          }
+        },
+        {
+          "id": "nebula.file:server-config.json:1.0.0@jar",
+          "name": "server-config.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/cobblenav/server-config.json",
+            "path": "config/cobblenav/server-config.json",
+            "MD5": "3f419f9fb8de7c423f8b35d7b796c2aa",
+            "size": 1246
+          }
+        },
+        {
+          "id": "nebula.file:cobbleworkers.json:1.0.0@jar",
+          "name": "cobbleworkers.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/cobbleworkers.json",
+            "path": "config/cobbleworkers.json",
+            "MD5": "36c9845bfa8bb7c6c736c9c7d09ac786",
+            "size": 4090
+          }
+        },
+        {
+          "id": "nebula.file:comforts-common.toml:1.0.0@jar",
+          "name": "comforts-common.toml",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/comforts-common.toml",
+            "path": "config/comforts-common.toml",
+            "MD5": "ad61bba10c45aa4855f588408751bfff",
+            "size": 189
+          }
+        },
+        {
+          "id": "nebula.file:comforts-server.toml:1.0.0@jar",
+          "name": "comforts-server.toml",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/comforts-server.toml",
+            "path": "config/comforts-server.toml",
+            "MD5": "9991417a0000e535ef675a115b788b46",
+            "size": 1869
+          }
+        },
+        {
+          "id": "nebula.file:datafixer.forboprenamethisdjs:1.0.0@jar",
+          "name": "datafixer.FORBOPRENAMETHISdjs",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/configurable_everything/datafixer.FORBOPRENAMETHISdjs",
+            "path": "config/configurable_everything/datafixer.FORBOPRENAMETHISdjs",
+            "MD5": "d7c9899f4d15394de59d93b3f3abdd1f",
+            "size": 690423
+          }
+        },
+        {
+          "id": "nebula.file:continuity.json:1.0.0@jar",
+          "name": "continuity.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/continuity.json",
+            "path": "config/continuity.json",
+            "MD5": "16114edbb9460c49373bb12561ddf7c3",
+            "size": 122
+          }
+        },
+        {
+          "id": "nebula.file:crd-broadcasts-common.json5:1.0.0@jar",
+          "name": "crd-broadcasts-common.json5",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/crd-broadcasts-common.json5",
+            "path": "config/crd-broadcasts-common.json5",
+            "MD5": "d08d8be473eb8afebfbd6c8478889f4b",
+            "size": 1261
+          }
+        },
+        {
+          "id": "nebula.file:crd-converter-common.json:1.0.0@jar",
+          "name": "crd-converter-common.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/crd-converter-common.json",
+            "path": "config/crd-converter-common.json",
+            "MD5": "3d90fe09265f4ab51974ae45f7e8a84f",
+            "size": 10958
+          }
+        },
+        {
+          "id": "nebula.file:background.png:1.0.0@jar",
+          "name": "background.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/customsplashscreen/background.png",
+            "path": "config/customsplashscreen/background.png",
+            "MD5": "7484a60b184cb07c93dc3120065cb82e",
+            "size": 3828524
+          }
+        },
+        {
+          "id": "nebula.file:progressbar.png:1.0.0@jar",
+          "name": "progressbar.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/customsplashscreen/progressbar.png",
+            "path": "config/customsplashscreen/progressbar.png",
+            "MD5": "d6a0dcd5d2404e29a715bec4d364e081",
+            "size": 340
+          }
+        },
+        {
+          "id": "nebula.file:progressbar_background.png:1.0.0@jar",
+          "name": "progressbar_background.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/customsplashscreen/progressbar_background.png",
+            "path": "config/customsplashscreen/progressbar_background.png",
+            "MD5": "c53a1a95a78e5605f45c32c22bda1c36",
+            "size": 172
+          }
+        },
+        {
+          "id": "nebula.file:square_logo.png:1.0.0@jar",
+          "name": "square_logo.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/customsplashscreen/square_logo.png",
+            "path": "config/customsplashscreen/square_logo.png",
+            "MD5": "b0ffdcaa9b745abed4fc99a010ebd654",
+            "size": 157919
+          }
+        },
+        {
+          "id": "nebula.file:wide_logo.png:1.0.0@jar",
+          "name": "wide_logo.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/customsplashscreen/wide_logo.png",
+            "path": "config/customsplashscreen/wide_logo.png",
+            "MD5": "b33fb474b70f0579c2c646f16b456a8c",
+            "size": 11788
+          }
+        },
+        {
+          "id": "nebula.file:customsplashscreen.json:1.0.0@jar",
+          "name": "customsplashscreen.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/customsplashscreen.json",
+            "path": "config/customsplashscreen.json",
+            "MD5": "2847757e53ab258552907cd893184245",
+            "size": 426
+          }
+        },
+        {
+          "id": "nebula.file:keybindings.txt:1.0.0@jar",
+          "name": "keybindings.txt",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/defaultoptions/keybindings.txt",
+            "path": "config/defaultoptions/keybindings.txt",
+            "MD5": "02d51a0e966cfcf5e8cbabea1447a3ad",
+            "size": 5472
+          }
+        },
+        {
+          "id": "nebula.file:options.txt:1.0.0@jar",
+          "name": "options.txt",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/defaultoptions/options.txt",
+            "path": "config/defaultoptions/options.txt",
+            "MD5": "ef49f836b586f8613cf673dd7720ea7c",
+            "size": 2288
+          }
+        },
+        {
+          "id": "nebula.file:servers.dat:1.0.0@jar",
+          "name": "servers.dat",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/defaultoptions/servers.dat",
+            "path": "config/defaultoptions/servers.dat",
+            "MD5": "3b598ac0ab631f63efe0a1e8262862eb",
+            "size": 6370
+          }
+        },
+        {
+          "id": "nebula.file:defaultoptions-common.toml:1.0.0@jar",
+          "name": "defaultoptions-common.toml",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/defaultoptions-common.toml",
+            "path": "config/defaultoptions-common.toml",
+            "MD5": "3dd3397e976f9184eb32abde533cf247",
+            "size": 333
+          }
+        },
+        {
+          "id": "nebula.file:disabled_sounds.json:1.0.0@jar",
+          "name": "disabled_sounds.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/disabled_sounds.json",
+            "path": "config/disabled_sounds.json",
+            "MD5": "2f503c88a4f7a69e2e9bfb9e4a0990fd",
+            "size": 2835
+          }
+        },
+        {
+          "id": "nebula.file:drop_confirm.json5:1.0.0@jar",
+          "name": "drop_confirm.json5",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/drop_confirm.json5",
+            "path": "config/drop_confirm.json5",
+            "MD5": "29b7dc24931282e04ca24003f6cdaa28",
+            "size": 1620
+          }
+        },
+        {
+          "id": "nebula.file:humanoid_slim_poses.json:1.0.0@jar",
+          "name": "humanoid_slim_poses.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/pose/humanoid_slim/humanoid_slim_poses.json",
+            "path": "config/easy_npc/pose/humanoid_slim/humanoid_slim_poses.json",
+            "MD5": "b5ff587d35daf4667b9cfde0d483a4f1",
+            "size": 3619
+          }
+        },
+        {
+          "id": "nebula.file:render_entity_type_support.cfg:1.0.0@jar",
+          "name": "render_entity_type_support.cfg",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/render_entity_type_support.cfg",
+            "path": "config/easy_npc/render_entity_type_support.cfg",
+            "MD5": "26530814a51272cc73db3700d4e5097d",
+            "size": 33747
+          }
+        },
+        {
+          "id": "nebula.file:allay_template.png:1.0.0@jar",
+          "name": "allay_template.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/allay/allay_template.png",
+            "path": "config/easy_npc/skin/allay/allay_template.png",
+            "MD5": "dc449d0dd6cb93d91fa6e34ecd44376a",
+            "size": 246
+          }
+        },
+        {
+          "id": "nebula.file:cat_template.png:1.0.0@jar",
+          "name": "cat_template.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/cat/cat_template.png",
+            "path": "config/easy_npc/skin/cat/cat_template.png",
+            "MD5": "ddb9d8f03724aa1fe201fd7fbefb81da",
+            "size": 283
+          }
+        },
+        {
+          "id": "nebula.file:chicken_template.png:1.0.0@jar",
+          "name": "chicken_template.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/chicken/chicken_template.png",
+            "path": "config/easy_npc/skin/chicken/chicken_template.png",
+            "MD5": "f06078d2850eb0020f2e86dd93c84a5a",
+            "size": 287
+          }
+        },
+        {
+          "id": "nebula.file:creeper_template.png:1.0.0@jar",
+          "name": "creeper_template.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/creeper/creeper_template.png",
+            "path": "config/easy_npc/skin/creeper/creeper_template.png",
+            "MD5": "460afd5ae6039e184859666d02797e9d",
+            "size": 255
+          }
+        },
+        {
+          "id": "nebula.file:ender_man_template.png:1.0.0@jar",
+          "name": "ender_man_template.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/ender_man/ender_man_template.png",
+            "path": "config/easy_npc/skin/ender_man/ender_man_template.png",
+            "MD5": "11a98be328121d89396fa59e1aa29df2",
+            "size": 276
+          }
+        },
+        {
+          "id": "nebula.file:fairy_template.png:1.0.0@jar",
+          "name": "fairy_template.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/fairy/fairy_template.png",
+            "path": "config/easy_npc/skin/fairy/fairy_template.png",
+            "MD5": "531b238034eb6fdcf494378d6de62d69",
+            "size": 434
+          }
+        },
+        {
+          "id": "nebula.file:fox_template.png:1.0.0@jar",
+          "name": "fox_template.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/fox/fox_template.png",
+            "path": "config/easy_npc/skin/fox/fox_template.png",
+            "MD5": "5850512e21b0c58b42207510a63a923d",
+            "size": 335
+          }
+        },
+        {
+          "id": "nebula.file:014fdaae652da1c8.png:1.0.0@jar",
+          "name": "014fdaae652da1c8.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/014fdaae652da1c8.png",
+            "path": "config/easy_npc/skin/humanoid/014fdaae652da1c8.png",
+            "MD5": "d3740e6ba596bbefcb56b94aac5857c3",
+            "size": 1018
+          }
+        },
+        {
+          "id": "nebula.file:0bb0673b48660bca.png:1.0.0@jar",
+          "name": "0bb0673b48660bca.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/0bb0673b48660bca.png",
+            "path": "config/easy_npc/skin/humanoid/0bb0673b48660bca.png",
+            "MD5": "b62ea79f80eb0807840dda659291e94b",
+            "size": 1250
+          }
+        },
+        {
+          "id": "nebula.file:2.png:1.0.0@jar",
+          "name": "2.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/2.png",
+            "path": "config/easy_npc/skin/humanoid/2.png",
+            "MD5": "c5c65955df2f20baf06243d173c59ae5",
+            "size": 3345
+          }
+        },
+        {
+          "id": "nebula.file:2023_03_29-ash-ketchum-galar-4447.png:1.0.0@jar",
+          "name": "2023_03_29-ash-ketchum-galar-4447.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/2023_03_29-ash-ketchum-galar-4447.png",
+            "path": "config/easy_npc/skin/humanoid/2023_03_29-ash-ketchum-galar-4447.png",
+            "MD5": "c1ffce05871cbb6609bc6ab8e16f4f17",
+            "size": 1204
+          }
+        },
+        {
+          "id": "nebula.file:2023_03_29-brendan-omega-ruby-alpha-sapphire-4453.png:1.0.0@jar",
+          "name": "2023_03_29-brendan-omega-ruby-alpha-sapphire-4453.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/2023_03_29-brendan-omega-ruby-alpha-sapphire-4453.png",
+            "path": "config/easy_npc/skin/humanoid/2023_03_29-brendan-omega-ruby-alpha-sapphire-4453.png",
+            "MD5": "5ebd223fff2af043980adc861d3a94f6",
+            "size": 1242
+          }
+        },
+        {
+          "id": "nebula.file:2023_03_29-lucas-brilliant-diamond-shining-pearl-4452.png:1.0.0@jar",
+          "name": "2023_03_29-lucas-brilliant-diamond-shining-pearl-4452.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/2023_03_29-lucas-brilliant-diamond-shining-pearl-4452.png",
+            "path": "config/easy_npc/skin/humanoid/2023_03_29-lucas-brilliant-diamond-shining-pearl-4452.png",
+            "MD5": "400834211ca5d53d10dfe78b070c7914",
+            "size": 1661
+          }
+        },
+        {
+          "id": "nebula.file:2024_01_06_mimicnoir-22238326.png:1.0.0@jar",
+          "name": "2024_01_06_mimicnoir-22238326.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/2024_01_06_mimicnoir-22238326.png",
+            "path": "config/easy_npc/skin/humanoid/2024_01_06_mimicnoir-22238326.png",
+            "MD5": "4191daf179ad219fdd578b3cafccf621",
+            "size": 2113
+          }
+        },
+        {
+          "id": "nebula.file:3b89786241c3690c.png:1.0.0@jar",
+          "name": "3b89786241c3690c.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/3b89786241c3690c.png",
+            "path": "config/easy_npc/skin/humanoid/3b89786241c3690c.png",
+            "MD5": "864adeda084b3a11e7a8f3535c39f7e3",
+            "size": 3081
+          }
+        },
+        {
+          "id": "nebula.file:3c3f780ed3b820c9.png:1.0.0@jar",
+          "name": "3c3f780ed3b820c9.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/3c3f780ed3b820c9.png",
+            "path": "config/easy_npc/skin/humanoid/3c3f780ed3b820c9.png",
+            "MD5": "2a85297cf28b88b03b20506fb752cc92",
+            "size": 800
+          }
+        },
+        {
+          "id": "nebula.file:782aed29b1f00547.png:1.0.0@jar",
+          "name": "782aed29b1f00547.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/782aed29b1f00547.png",
+            "path": "config/easy_npc/skin/humanoid/782aed29b1f00547.png",
+            "MD5": "b7643a84682552d9bc7507476f3b73be",
+            "size": 1330
+          }
+        },
+        {
+          "id": "nebula.file:8a160397f776922b.png:1.0.0@jar",
+          "name": "8a160397f776922b.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/8a160397f776922b.png",
+            "path": "config/easy_npc/skin/humanoid/8a160397f776922b.png",
+            "MD5": "b0eec70709589123288fcf6aab6def39",
+            "size": 2031
+          }
+        },
+        {
+          "id": "nebula.file:90053e21efc9a6e7.png:1.0.0@jar",
+          "name": "90053e21efc9a6e7.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/90053e21efc9a6e7.png",
+            "path": "config/easy_npc/skin/humanoid/90053e21efc9a6e7.png",
+            "MD5": "be10d22bf30ba2085d1bdcd0fbc40e70",
+            "size": 1135
+          }
+        },
+        {
+          "id": "nebula.file:929286d7d58c2aea.png:1.0.0@jar",
+          "name": "929286d7d58c2aea.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/929286d7d58c2aea.png",
+            "path": "config/easy_npc/skin/humanoid/929286d7d58c2aea.png",
+            "MD5": "9f4d3fdb1d8e74ae879e5fd23ba5476c",
+            "size": 836
+          }
+        },
+        {
+          "id": "nebula.file:984c6e5314ca70b8.png:1.0.0@jar",
+          "name": "984c6e5314ca70b8.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/984c6e5314ca70b8.png",
+            "path": "config/easy_npc/skin/humanoid/984c6e5314ca70b8.png",
+            "MD5": "a56967d92fd4a8e3c32099c06e98beae",
+            "size": 3148
+          }
+        },
+        {
+          "id": "nebula.file:brendan-pokemon-emerald-male-trainer-on-planetminecraft-com.png:1.0.0@jar",
+          "name": "Brendan-Pokemon-Emerald-Male-Trainer-on-planetminecraft-com.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/Brendan-Pokemon-Emerald-Male-Trainer-on-planetminecraft-com.png",
+            "path": "config/easy_npc/skin/humanoid/Brendan-Pokemon-Emerald-Male-Trainer-on-planetminecraft-com.png",
+            "MD5": "f5c040bf6ba4eacb7dacbfddc22be1c8",
+            "size": 1158
+          }
+        },
+        {
+          "id": "nebula.file:bug-catcher-girl-pixelmon-contest-winner-on-planetminecraft-com.:1.0.0@jar",
+          "name": "Bug-Catcher-Girl-Pixelmon-Contest-Winner-on-planetminecraft-com.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/Bug-Catcher-Girl-Pixelmon-Contest-Winner-on-planetminecraft-com.png",
+            "path": "config/easy_npc/skin/humanoid/Bug-Catcher-Girl-Pixelmon-Contest-Winner-on-planetminecraft-com.png",
+            "MD5": "ed37f8e58820158d6a31b9826044286f",
+            "size": 2198
+          }
+        },
+        {
+          "id": "nebula.file:c6f731289c778793.png:1.0.0@jar",
+          "name": "c6f731289c778793.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/c6f731289c778793.png",
+            "path": "config/easy_npc/skin/humanoid/c6f731289c778793.png",
+            "MD5": "aed31242009d6bcf23a129166a710166",
+            "size": 618
+          }
+        },
+        {
+          "id": "nebula.file:dartrixgamer-bedrock-version-pokemon-on-planetminecraft-com.png:1.0.0@jar",
+          "name": "Dartrixgamer-bedrock-version-pokemon-on-planetminecraft-com.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/Dartrixgamer-bedrock-version-pokemon-on-planetminecraft-com.png",
+            "path": "config/easy_npc/skin/humanoid/Dartrixgamer-bedrock-version-pokemon-on-planetminecraft-com.png",
+            "MD5": "4b0eb6fb8f4c59e6c0fbf3c2b0f6701f",
+            "size": 1771
+          }
+        },
+        {
+          "id": "nebula.file:enfermeira_joy.png:1.0.0@jar",
+          "name": "Enfermeira_Joy.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/Enfermeira_Joy.png",
+            "path": "config/easy_npc/skin/humanoid/Enfermeira_Joy.png",
+            "MD5": "83e1d9cebd744053e45d1130462b9aef",
+            "size": 2231
+          }
+        },
+        {
+          "id": "nebula.file:fa3adcf48aad9098.png:1.0.0@jar",
+          "name": "fa3adcf48aad9098.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/fa3adcf48aad9098.png",
+            "path": "config/easy_npc/skin/humanoid/fa3adcf48aad9098.png",
+            "MD5": "8957343b5190fad6ec7cfcda30e9eebd",
+            "size": 740
+          }
+        },
+        {
+          "id": "nebula.file:giovanni-on-planetminecraft-com.png:1.0.0@jar",
+          "name": "Giovanni-on-planetminecraft-com.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/Giovanni-on-planetminecraft-com.png",
+            "path": "config/easy_npc/skin/humanoid/Giovanni-on-planetminecraft-com.png",
+            "MD5": "42dafaac82198e9b4b41a96752535d51",
+            "size": 1805
+          }
+        },
+        {
+          "id": "nebula.file:humanoid_template.png:1.0.0@jar",
+          "name": "humanoid_template.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/humanoid_template.png",
+            "path": "config/easy_npc/skin/humanoid/humanoid_template.png",
+            "MD5": "a39224182358dcbf6615b9faeb732933",
+            "size": 360
+          }
+        },
+        {
+          "id": "nebula.file:itachi080.png:1.0.0@jar",
+          "name": "itachi080.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/itachi080.png",
+            "path": "config/easy_npc/skin/humanoid/itachi080.png",
+            "MD5": "caeed4fd1ea48550c95fe17c0175d05a",
+            "size": 1209
+          }
+        },
+        {
+          "id": "nebula.file:lionel-leon-pokemon-sword-amp-shield-on-planetminecraft-com.png:1.0.0@jar",
+          "name": "Lionel-Leon-Pokemon-Sword-amp-Shield-on-planetminecraft-com.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/Lionel-Leon-Pokemon-Sword-amp-Shield-on-planetminecraft-com.png",
+            "path": "config/easy_npc/skin/humanoid/Lionel-Leon-Pokemon-Sword-amp-Shield-on-planetminecraft-com.png",
+            "MD5": "cf5e9e93846eff2922d0fbf3adb7652c",
+            "size": 1496
+          }
+        },
+        {
+          "id": "nebula.file:mega-swampert-pokemon-trainer-on-planetminecraft-com.png:1.0.0@jar",
+          "name": "Mega-Swampert-Pokemon-Trainer-on-planetminecraft-com.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/Mega-Swampert-Pokemon-Trainer-on-planetminecraft-com.png",
+            "path": "config/easy_npc/skin/humanoid/Mega-Swampert-Pokemon-Trainer-on-planetminecraft-com.png",
+            "MD5": "4e03ed4d945c2b0fcb434991fb773757",
+            "size": 5387
+          }
+        },
+        {
+          "id": "nebula.file:old-man-on-planetminecraft-com.png:1.0.0@jar",
+          "name": "Old-Man-on-planetminecraft-com.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/Old-Man-on-planetminecraft-com.png",
+            "path": "config/easy_npc/skin/humanoid/Old-Man-on-planetminecraft-com.png",
+            "MD5": "9da4f498fac01c9b575ca518e8ed856d",
+            "size": 1070
+          }
+        },
+        {
+          "id": "nebula.file:pixelmon-bug-catcher-competition-winner-on-planetminecraft-com.p:1.0.0@jar",
+          "name": "Pixelmon-Bug-Catcher-Competition-winner-on-planetminecraft-com.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/Pixelmon-Bug-Catcher-Competition-winner-on-planetminecraft-com.png",
+            "path": "config/easy_npc/skin/humanoid/Pixelmon-Bug-Catcher-Competition-winner-on-planetminecraft-com.png",
+            "MD5": "13806de6d6633605718c27c5eaf751c6",
+            "size": 1528
+          }
+        },
+        {
+          "id": "nebula.file:pokemart-shopkeeper-pokefind-on-planetminecraft-com.png:1.0.0@jar",
+          "name": "PokeMart-Shopkeeper-Pokefind-on-planetminecraft-com.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/PokeMart-Shopkeeper-Pokefind-on-planetminecraft-com.png",
+            "path": "config/easy_npc/skin/humanoid/PokeMart-Shopkeeper-Pokefind-on-planetminecraft-com.png",
+            "MD5": "04da80c18c64a31b09ec9943ab9f8e3c",
+            "size": 1188
+          }
+        },
+        {
+          "id": "nebula.file:pokemon-bug-catcher-on-planetminecraft-com.png:1.0.0@jar",
+          "name": "Pokemon-Bug-Catcher-on-planetminecraft-com.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/Pokemon-Bug-Catcher-on-planetminecraft-com.png",
+            "path": "config/easy_npc/skin/humanoid/Pokemon-Bug-Catcher-on-planetminecraft-com.png",
+            "MD5": "9917c978f1c1d7deca14e1cdeea3b5e2",
+            "size": 950
+          }
+        },
+        {
+          "id": "nebula.file:pokemon-trainer-on-planetminecraft-com.png:1.0.0@jar",
+          "name": "Pokemon-Trainer-on-planetminecraft-com.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/Pokemon-Trainer-on-planetminecraft-com.png",
+            "path": "config/easy_npc/skin/humanoid/Pokemon-Trainer-on-planetminecraft-com.png",
+            "MD5": "1de829721e3500082e1180f969cf1d53",
+            "size": 1357
+          }
+        },
+        {
+          "id": "nebula.file:pokemon-trainer-weston-on-planetminecraft-com.png:1.0.0@jar",
+          "name": "Pokemon-Trainer-Weston-on-planetminecraft-com.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/Pokemon-Trainer-Weston-on-planetminecraft-com.png",
+            "path": "config/easy_npc/skin/humanoid/Pokemon-Trainer-Weston-on-planetminecraft-com.png",
+            "MD5": "d899d6c3c159240e830db3d83c575701",
+            "size": 1585
+          }
+        },
+        {
+          "id": "nebula.file:pokemon_trainer.png:1.0.0@jar",
+          "name": "Pokemon_Trainer.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/Pokemon_Trainer.png",
+            "path": "config/easy_npc/skin/humanoid/Pokemon_Trainer.png",
+            "MD5": "69a7d60ad0d3446af52cba5033af13a5",
+            "size": 2004
+          }
+        },
+        {
+          "id": "nebula.file:pokemon_trainer_ethan.png:1.0.0@jar",
+          "name": "Pokemon_Trainer_Ethan.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/Pokemon_Trainer_Ethan.png",
+            "path": "config/easy_npc/skin/humanoid/Pokemon_Trainer_Ethan.png",
+            "MD5": "d832faa78441ba0cda201beb2bb25550",
+            "size": 2149
+          }
+        },
+        {
+          "id": "nebula.file:pokemon_trainer_girl.png:1.0.0@jar",
+          "name": "Pokemon_Trainer_Girl.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/Pokemon_Trainer_Girl.png",
+            "path": "config/easy_npc/skin/humanoid/Pokemon_Trainer_Girl.png",
+            "MD5": "0d01d2256047116b10d2eb4243e15835",
+            "size": 2218
+          }
+        },
+        {
+          "id": "nebula.file:pokemon_trainer_red.png:1.0.0@jar",
+          "name": "Pokemon_Trainer_Red.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/Pokemon_Trainer_Red.png",
+            "path": "config/easy_npc/skin/humanoid/Pokemon_Trainer_Red.png",
+            "MD5": "fd5b158be464b9370ef4f0ba2b0aabe8",
+            "size": 1664
+          }
+        },
+        {
+          "id": "nebula.file:samurai-17147408-e2540.png:1.0.0@jar",
+          "name": "samurai-17147408-e2540.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/samurai-17147408-e2540.png",
+            "path": "config/easy_npc/skin/humanoid/samurai-17147408-e2540.png",
+            "MD5": "7294be8b26e768418a231931f50aaddb",
+            "size": 502
+          }
+        },
+        {
+          "id": "nebula.file:senshi-delicious-in-dungeon-on-planetminecraft-com.png:1.0.0@jar",
+          "name": "Senshi-Delicious-in-Dungeon-on-planetminecraft-com.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/Senshi-Delicious-in-Dungeon-on-planetminecraft-com.png",
+            "path": "config/easy_npc/skin/humanoid/Senshi-Delicious-in-Dungeon-on-planetminecraft-com.png",
+            "MD5": "8da6bdc1e10952e99cbf4130146ee945",
+            "size": 972
+          }
+        },
+        {
+          "id": "nebula.file:trainer-blue-on-planetminecraft-com.png:1.0.0@jar",
+          "name": "Trainer-Blue-on-planetminecraft-com.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/Trainer-Blue-on-planetminecraft-com.png",
+            "path": "config/easy_npc/skin/humanoid/Trainer-Blue-on-planetminecraft-com.png",
+            "MD5": "fc86efed5235863b8bdf048999231bea",
+            "size": 6013
+          }
+        },
+        {
+          "id": "nebula.file:zgamerpley.png:1.0.0@jar",
+          "name": "ZGAMERPLEY.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid/ZGAMERPLEY.png",
+            "path": "config/easy_npc/skin/humanoid/ZGAMERPLEY.png",
+            "MD5": "ff1c2f8607cfcdd6fc83b85e6bd02691",
+            "size": 1786
+          }
+        },
+        {
+          "id": "nebula.file:05d454fa9ca07916.png:1.0.0@jar",
+          "name": "05d454fa9ca07916.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/05d454fa9ca07916.png",
+            "path": "config/easy_npc/skin/humanoid_slim/05d454fa9ca07916.png",
+            "MD5": "554c642dc226a24ca2d0ea71f7abfdb9",
+            "size": 986
+          }
+        },
+        {
+          "id": "nebula.file:12b16c0b77479cf1.png:1.0.0@jar",
+          "name": "12b16c0b77479cf1.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/12b16c0b77479cf1.png",
+            "path": "config/easy_npc/skin/humanoid_slim/12b16c0b77479cf1.png",
+            "MD5": "b548806c011caf9a9598e886c38c8a2b",
+            "size": 1108
+          }
+        },
+        {
+          "id": "nebula.file:14fa1783a72a4146.png:1.0.0@jar",
+          "name": "14fa1783a72a4146.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/14fa1783a72a4146.png",
+            "path": "config/easy_npc/skin/humanoid_slim/14fa1783a72a4146.png",
+            "MD5": "83e7618f23868b8695f151e5b34d0c45",
+            "size": 811
+          }
+        },
+        {
+          "id": "nebula.file:19f0c84788991941.png:1.0.0@jar",
+          "name": "19f0c84788991941.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/19f0c84788991941.png",
+            "path": "config/easy_npc/skin/humanoid_slim/19f0c84788991941.png",
+            "MD5": "f5797888b9919d748f6ec08d6ad82468",
+            "size": 1472
+          }
+        },
+        {
+          "id": "nebula.file:2023_03_29-misty-anime-version-4448.png:1.0.0@jar",
+          "name": "2023_03_29-misty-anime-version-4448.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/2023_03_29-misty-anime-version-4448.png",
+            "path": "config/easy_npc/skin/humanoid_slim/2023_03_29-misty-anime-version-4448.png",
+            "MD5": "77dd5e302f6fea2fa7786246ab52f8e5",
+            "size": 2742
+          }
+        },
+        {
+          "id": "nebula.file:2023_11_18_delia-ketchum-22121135.png:1.0.0@jar",
+          "name": "2023_11_18_delia-ketchum-22121135.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/2023_11_18_delia-ketchum-22121135.png",
+            "path": "config/easy_npc/skin/humanoid_slim/2023_11_18_delia-ketchum-22121135.png",
+            "MD5": "cceff7f2fd80df4a5f92189e9b9cf665",
+            "size": 2664
+          }
+        },
+        {
+          "id": "nebula.file:2024_01_17_pikachu-girl---22264163.png:1.0.0@jar",
+          "name": "2024_01_17_pikachu-girl---22264163.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/2024_01_17_pikachu-girl---22264163.png",
+            "path": "config/easy_npc/skin/humanoid_slim/2024_01_17_pikachu-girl---22264163.png",
+            "MD5": "39565337de8e9c56ee7e7381b92b6858",
+            "size": 2391
+          }
+        },
+        {
+          "id": "nebula.file:2024_02_06_little-baby-saipai-catches-all-the-little-baby-pokemo:1.0.0@jar",
+          "name": "2024_02_06_little-baby-saipai-catches-all-the-little-baby-pokemon-but-in-pink-22312819.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/2024_02_06_little-baby-saipai-catches-all-the-little-baby-pokemon-but-in-pink-22312819.png",
+            "path": "config/easy_npc/skin/humanoid_slim/2024_02_06_little-baby-saipai-catches-all-the-little-baby-pokemon-but-in-pink-22312819.png",
+            "MD5": "644e382b2dbdbdfeb35af21eed7f788a",
+            "size": 2228
+          }
+        },
+        {
+          "id": "nebula.file:21f6484f8467cc32.png:1.0.0@jar",
+          "name": "21f6484f8467cc32.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/21f6484f8467cc32.png",
+            "path": "config/easy_npc/skin/humanoid_slim/21f6484f8467cc32.png",
+            "MD5": "36e26b48bf986507c875984ed450e49e",
+            "size": 942
+          }
+        },
+        {
+          "id": "nebula.file:2346843dd9aec415.png:1.0.0@jar",
+          "name": "2346843dd9aec415.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/2346843dd9aec415.png",
+            "path": "config/easy_npc/skin/humanoid_slim/2346843dd9aec415.png",
+            "MD5": "ecf1d9cca5c1af8b3b3705a1a99f3737",
+            "size": 563
+          }
+        },
+        {
+          "id": "nebula.file:3adb477e5fa8b43c.png:1.0.0@jar",
+          "name": "3adb477e5fa8b43c.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/3adb477e5fa8b43c.png",
+            "path": "config/easy_npc/skin/humanoid_slim/3adb477e5fa8b43c.png",
+            "MD5": "aa2ed5d724078ba8c82589e0ceebc31c",
+            "size": 4239
+          }
+        },
+        {
+          "id": "nebula.file:4ee929f695525057.png:1.0.0@jar",
+          "name": "4ee929f695525057.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/4ee929f695525057.png",
+            "path": "config/easy_npc/skin/humanoid_slim/4ee929f695525057.png",
+            "MD5": "ce15cbd1a8ca7660df1377b415767036",
+            "size": 721
+          }
+        },
+        {
+          "id": "nebula.file:5d335738ed53cac7.png:1.0.0@jar",
+          "name": "5d335738ed53cac7.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/5d335738ed53cac7.png",
+            "path": "config/easy_npc/skin/humanoid_slim/5d335738ed53cac7.png",
+            "MD5": "c3b7ad774ac1fcfe06cf8d58eae8565d",
+            "size": 1132
+          }
+        },
+        {
+          "id": "nebula.file:5e5ef086b5b73d59.png:1.0.0@jar",
+          "name": "5e5ef086b5b73d59.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/5e5ef086b5b73d59.png",
+            "path": "config/easy_npc/skin/humanoid_slim/5e5ef086b5b73d59.png",
+            "MD5": "c738173f9d2a6e05132411a86cbe4c04",
+            "size": 693
+          }
+        },
+        {
+          "id": "nebula.file:73736c3afcffd7a9.png:1.0.0@jar",
+          "name": "73736c3afcffd7a9.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/73736c3afcffd7a9.png",
+            "path": "config/easy_npc/skin/humanoid_slim/73736c3afcffd7a9.png",
+            "MD5": "4dbf9519936a93380873b2b4e8d98342",
+            "size": 705
+          }
+        },
+        {
+          "id": "nebula.file:73991d76d031c701.png:1.0.0@jar",
+          "name": "73991d76d031c701.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/73991d76d031c701.png",
+            "path": "config/easy_npc/skin/humanoid_slim/73991d76d031c701.png",
+            "MD5": "bf4388839d84d87372af28e0072af277",
+            "size": 808
+          }
+        },
+        {
+          "id": "nebula.file:73e3dfacc5d9a54c.png:1.0.0@jar",
+          "name": "73e3dfacc5d9a54c.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/73e3dfacc5d9a54c.png",
+            "path": "config/easy_npc/skin/humanoid_slim/73e3dfacc5d9a54c.png",
+            "MD5": "b196fe198c302844a0887b1962e9f2f4",
+            "size": 1348
+          }
+        },
+        {
+          "id": "nebula.file:84aa6aef93bbdbd0.png:1.0.0@jar",
+          "name": "84aa6aef93bbdbd0.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/84aa6aef93bbdbd0.png",
+            "path": "config/easy_npc/skin/humanoid_slim/84aa6aef93bbdbd0.png",
+            "MD5": "053bcc7a13c7b45015362d5d04f5abe5",
+            "size": 1833
+          }
+        },
+        {
+          "id": "nebula.file:88960f91bf58c7dc.png:1.0.0@jar",
+          "name": "88960f91bf58c7dc.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/88960f91bf58c7dc.png",
+            "path": "config/easy_npc/skin/humanoid_slim/88960f91bf58c7dc.png",
+            "MD5": "fea87fdb4483354835b6f741937fc5c9",
+            "size": 1065
+          }
+        },
+        {
+          "id": "nebula.file:942dff230aa29f78.png:1.0.0@jar",
+          "name": "942dff230aa29f78.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/942dff230aa29f78.png",
+            "path": "config/easy_npc/skin/humanoid_slim/942dff230aa29f78.png",
+            "MD5": "8302c6bf4e340d78e87a98215f092725",
+            "size": 2293
+          }
+        },
+        {
+          "id": "nebula.file:a-mysterious-pendant-you-say-on-planetminecraft-com.png:1.0.0@jar",
+          "name": "A-mysterious-pendant-you-say-on-planetminecraft-com.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/A-mysterious-pendant-you-say-on-planetminecraft-com.png",
+            "path": "config/easy_npc/skin/humanoid_slim/A-mysterious-pendant-you-say-on-planetminecraft-com.png",
+            "MD5": "0f18d5e246dc1b96108f41f104d94f1c",
+            "size": 1048
+          }
+        },
+        {
+          "id": "nebula.file:aaron-on-planetminecraft-com.png:1.0.0@jar",
+          "name": "Aaron-on-planetminecraft-com.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/Aaron-on-planetminecraft-com.png",
+            "path": "config/easy_npc/skin/humanoid_slim/Aaron-on-planetminecraft-com.png",
+            "MD5": "f82ff51c22f9f2178084b298904646bc",
+            "size": 666
+          }
+        },
+        {
+          "id": "nebula.file:ac98ccc4c9f90e7a.png:1.0.0@jar",
+          "name": "ac98ccc4c9f90e7a.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/ac98ccc4c9f90e7a.png",
+            "path": "config/easy_npc/skin/humanoid_slim/ac98ccc4c9f90e7a.png",
+            "MD5": "57e0ec94055dbc184166522066b382d1",
+            "size": 719
+          }
+        },
+        {
+          "id": "nebula.file:alain-from-pokemon-request-on-planetminecraft-com.png:1.0.0@jar",
+          "name": "alain-from-pokemon-request-on-planetminecraft-com.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/alain-from-pokemon-request-on-planetminecraft-com.png",
+            "path": "config/easy_npc/skin/humanoid_slim/alain-from-pokemon-request-on-planetminecraft-com.png",
+            "MD5": "9fd4146e2a50102da35ac7b249a84c1d",
+            "size": 2288
+          }
+        },
+        {
+          "id": "nebula.file:ash-ketchum-indigo-league-on-planetminecraft-com.png:1.0.0@jar",
+          "name": "Ash-Ketchum-Indigo-League-on-planetminecraft-com.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/Ash-Ketchum-Indigo-League-on-planetminecraft-com.png",
+            "path": "config/easy_npc/skin/humanoid_slim/Ash-Ketchum-Indigo-League-on-planetminecraft-com.png",
+            "MD5": "be64e03055f9168a84af2c7d0e4ab434",
+            "size": 816
+          }
+        },
+        {
+          "id": "nebula.file:b8598507676247c2.png:1.0.0@jar",
+          "name": "b8598507676247c2.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/b8598507676247c2.png",
+            "path": "config/easy_npc/skin/humanoid_slim/b8598507676247c2.png",
+            "MD5": "9f721d07b20c63e200b7592cfca4ae18",
+            "size": 1362
+          }
+        },
+        {
+          "id": "nebula.file:b87b29e85155f4b1.png:1.0.0@jar",
+          "name": "b87b29e85155f4b1.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/b87b29e85155f4b1.png",
+            "path": "config/easy_npc/skin/humanoid_slim/b87b29e85155f4b1.png",
+            "MD5": "a3f589008d73eaac5c5bf5517593c6dd",
+            "size": 1060
+          }
+        },
+        {
+          "id": "nebula.file:c057acdb38d2bcfe.png:1.0.0@jar",
+          "name": "c057acdb38d2bcfe.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/c057acdb38d2bcfe.png",
+            "path": "config/easy_npc/skin/humanoid_slim/c057acdb38d2bcfe.png",
+            "MD5": "c0a1c56dd3ec2e14daa6e9d241195bb7",
+            "size": 647
+          }
+        },
+        {
+          "id": "nebula.file:c089b29c98ba4f18.png:1.0.0@jar",
+          "name": "c089b29c98ba4f18.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/c089b29c98ba4f18.png",
+            "path": "config/easy_npc/skin/humanoid_slim/c089b29c98ba4f18.png",
+            "MD5": "43b9d74aaf232b45f5150d5e14b6b874",
+            "size": 916
+          }
+        },
+        {
+          "id": "nebula.file:c6e49cb64670e31a.png:1.0.0@jar",
+          "name": "c6e49cb64670e31a.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/c6e49cb64670e31a.png",
+            "path": "config/easy_npc/skin/humanoid_slim/c6e49cb64670e31a.png",
+            "MD5": "3c2aa72053db3b045a6b77fffe274aaa",
+            "size": 1107
+          }
+        },
+        {
+          "id": "nebula.file:carsonrocks-pokemon-trainer-on-planetminecraft-com.png:1.0.0@jar",
+          "name": "CarsonRocks-Pokemon-Trainer-on-planetminecraft-com.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/CarsonRocks-Pokemon-Trainer-on-planetminecraft-com.png",
+            "path": "config/easy_npc/skin/humanoid_slim/CarsonRocks-Pokemon-Trainer-on-planetminecraft-com.png",
+            "MD5": "51e3fde7db03d31f2cdb70608c57400a",
+            "size": 1516
+          }
+        },
+        {
+          "id": "nebula.file:d79283447500962e.png:1.0.0@jar",
+          "name": "d79283447500962e.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/d79283447500962e.png",
+            "path": "config/easy_npc/skin/humanoid_slim/d79283447500962e.png",
+            "MD5": "63f4f8084c67ad31950e84b3635db647",
+            "size": 857
+          }
+        },
+        {
+          "id": "nebula.file:dd0c908bb60ad460.png:1.0.0@jar",
+          "name": "dd0c908bb60ad460.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/dd0c908bb60ad460.png",
+            "path": "config/easy_npc/skin/humanoid_slim/dd0c908bb60ad460.png",
+            "MD5": "ee7d5891c7e302e6de11bbdd79f7b7d5",
+            "size": 1196
+          }
+        },
+        {
+          "id": "nebula.file:e86a178bf497b01f.png:1.0.0@jar",
+          "name": "e86a178bf497b01f.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/e86a178bf497b01f.png",
+            "path": "config/easy_npc/skin/humanoid_slim/e86a178bf497b01f.png",
+            "MD5": "e5dbe254f2fc06508c00003444d59f6d",
+            "size": 695
+          }
+        },
+        {
+          "id": "nebula.file:elesa-pokemon-black-amp-white-c-sarin-s-rq-on-planetminecraft-co:1.0.0@jar",
+          "name": "Elesa-Pokemon-Black-amp-White-c-sarin-s-rq-on-planetminecraft-com.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/Elesa-Pokemon-Black-amp-White-c-sarin-s-rq-on-planetminecraft-com.png",
+            "path": "config/easy_npc/skin/humanoid_slim/Elesa-Pokemon-Black-amp-White-c-sarin-s-rq-on-planetminecraft-com.png",
+            "MD5": "515c2af762307ea1241aca14921196dc",
+            "size": 991
+          }
+        },
+        {
+          "id": "nebula.file:f20ef35373e8423b.png:1.0.0@jar",
+          "name": "f20ef35373e8423b.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/f20ef35373e8423b.png",
+            "path": "config/easy_npc/skin/humanoid_slim/f20ef35373e8423b.png",
+            "MD5": "e26ed7f5f87474a51a36ca975160fa5c",
+            "size": 1152
+          }
+        },
+        {
+          "id": "nebula.file:falin-touden-delicious-in-dungeon-on-planetminecraft-com.png:1.0.0@jar",
+          "name": "Falin-Touden-Delicious-in-Dungeon-on-planetminecraft-com.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/Falin-Touden-Delicious-in-Dungeon-on-planetminecraft-com.png",
+            "path": "config/easy_npc/skin/humanoid_slim/Falin-Touden-Delicious-in-Dungeon-on-planetminecraft-com.png",
+            "MD5": "f88334c3c5ca5936e9d294d9e61edc54",
+            "size": 1025
+          }
+        },
+        {
+          "id": "nebula.file:female-glaceon-on-planetminecraft-com.png:1.0.0@jar",
+          "name": "female-Glaceon-on-planetminecraft-com.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/female-Glaceon-on-planetminecraft-com.png",
+            "path": "config/easy_npc/skin/humanoid_slim/female-Glaceon-on-planetminecraft-com.png",
+            "MD5": "1c627a1de727269bf252534e10291e0b",
+            "size": 940
+          }
+        },
+        {
+          "id": "nebula.file:grusha-pokemon-on-planetminecraft-com.png:1.0.0@jar",
+          "name": "grusha-pokemon-on-planetminecraft-com.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/grusha-pokemon-on-planetminecraft-com.png",
+            "path": "config/easy_npc/skin/humanoid_slim/grusha-pokemon-on-planetminecraft-com.png",
+            "MD5": "6451178953b2318ac9f3a95fafdeccc4",
+            "size": 983
+          }
+        },
+        {
+          "id": "nebula.file:hilda-pokemon-black-and-white-on-planetminecraft-com.png:1.0.0@jar",
+          "name": "Hilda-Pokemon-Black-and-White-on-planetminecraft-com.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/Hilda-Pokemon-Black-and-White-on-planetminecraft-com.png",
+            "path": "config/easy_npc/skin/humanoid_slim/Hilda-Pokemon-Black-and-White-on-planetminecraft-com.png",
+            "MD5": "0cab3e6252be33de7f360b5eb6f7b0a7",
+            "size": 1488
+          }
+        },
+        {
+          "id": "nebula.file:humanoid_slim_template.png:1.0.0@jar",
+          "name": "humanoid_slim_template.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/humanoid_slim_template.png",
+            "path": "config/easy_npc/skin/humanoid_slim/humanoid_slim_template.png",
+            "MD5": "41f831333d68c3a4535adbe574f0511c",
+            "size": 384
+          }
+        },
+        {
+          "id": "nebula.file:lyra-pokemon-diamond-and-pearl-on-planetminecraft-com.png:1.0.0@jar",
+          "name": "Lyra-Pokemon-Diamond-And-Pearl-on-planetminecraft-com.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/Lyra-Pokemon-Diamond-And-Pearl-on-planetminecraft-com.png",
+            "path": "config/easy_npc/skin/humanoid_slim/Lyra-Pokemon-Diamond-And-Pearl-on-planetminecraft-com.png",
+            "MD5": "4df0b2b65c1909cdde75dd0580df8856",
+            "size": 1093
+          }
+        },
+        {
+          "id": "nebula.file:ogami-jujutsu-kaisen-on-planetminecraft-com.png:1.0.0@jar",
+          "name": "Ogami-Jujutsu-Kaisen-on-planetminecraft-com.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/Ogami-Jujutsu-Kaisen-on-planetminecraft-com.png",
+            "path": "config/easy_npc/skin/humanoid_slim/Ogami-Jujutsu-Kaisen-on-planetminecraft-com.png",
+            "MD5": "ce71c141f81eb89490f4e76aa785400f",
+            "size": 857
+          }
+        },
+        {
+          "id": "nebula.file:pokemon-colosseum-wes-on-planetminecraft-com.png:1.0.0@jar",
+          "name": "Pokemon-Colosseum-Wes-on-planetminecraft-com.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/Pokemon-Colosseum-Wes-on-planetminecraft-com.png",
+            "path": "config/easy_npc/skin/humanoid_slim/Pokemon-Colosseum-Wes-on-planetminecraft-com.png",
+            "MD5": "951f48d870337f6d3a6e6d78048a5d46",
+            "size": 1128
+          }
+        },
+        {
+          "id": "nebula.file:pokemon-geeta-on-planetminecraft-com.png:1.0.0@jar",
+          "name": "Pokemon-Geeta-on-planetminecraft-com.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/Pokemon-Geeta-on-planetminecraft-com.png",
+            "path": "config/easy_npc/skin/humanoid_slim/Pokemon-Geeta-on-planetminecraft-com.png",
+            "MD5": "d2355872fd25bdd0f121acf178a4ec43",
+            "size": 683
+          }
+        },
+        {
+          "id": "nebula.file:pokemon-scarlet-violet-kieran-on-planetminecraft-com.png:1.0.0@jar",
+          "name": "Pokemon-Scarlet-Violet-Kieran-on-planetminecraft-com.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/Pokemon-Scarlet-Violet-Kieran-on-planetminecraft-com.png",
+            "path": "config/easy_npc/skin/humanoid_slim/Pokemon-Scarlet-Violet-Kieran-on-planetminecraft-com.png",
+            "MD5": "9d2c9428b9a8b90e6fd01a0aa1961abb",
+            "size": 1130
+          }
+        },
+        {
+          "id": "nebula.file:pokemon-sun-moon-lillie-on-planetminecraft-com.png:1.0.0@jar",
+          "name": "Pokemon-Sun-Moon-Lillie-on-planetminecraft-com.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/Pokemon-Sun-Moon-Lillie-on-planetminecraft-com.png",
+            "path": "config/easy_npc/skin/humanoid_slim/Pokemon-Sun-Moon-Lillie-on-planetminecraft-com.png",
+            "MD5": "a3ec139d98d23fd255a2a0cf6341c787",
+            "size": 1033
+          }
+        },
+        {
+          "id": "nebula.file:rosa-on-planetminecraft-com.png:1.0.0@jar",
+          "name": "rosa-on-planetminecraft-com.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/rosa-on-planetminecraft-com.png",
+            "path": "config/easy_npc/skin/humanoid_slim/rosa-on-planetminecraft-com.png",
+            "MD5": "10f446388518afdfae427bad8988af9f",
+            "size": 1164
+          }
+        },
+        {
+          "id": "nebula.file:serena-on-planetminecraft-com.png:1.0.0@jar",
+          "name": "Serena-on-planetminecraft-com.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/Serena-on-planetminecraft-com.png",
+            "path": "config/easy_npc/skin/humanoid_slim/Serena-on-planetminecraft-com.png",
+            "MD5": "3509e566282e562bc16cd50ea0463122",
+            "size": 1044
+          }
+        },
+        {
+          "id": "nebula.file:zinnia-pokemon-omega-ruby-and-alpha-sapphire-on-planetminecraft-:1.0.0@jar",
+          "name": "Zinnia-Pokemon-Omega-Ruby-And-Alpha-Sapphire-on-planetminecraft-com.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/humanoid_slim/Zinnia-Pokemon-Omega-Ruby-And-Alpha-Sapphire-on-planetminecraft-com.png",
+            "path": "config/easy_npc/skin/humanoid_slim/Zinnia-Pokemon-Omega-Ruby-And-Alpha-Sapphire-on-planetminecraft-com.png",
+            "MD5": "68c11b1fb7232bd4b2033b47633fffca",
+            "size": 1796
+          }
+        },
+        {
+          "id": "nebula.file:husk_template.png:1.0.0@jar",
+          "name": "husk_template.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/husk/husk_template.png",
+            "path": "config/easy_npc/skin/husk/husk_template.png",
+            "MD5": "66e672cdead5768165586f4b24c1f61c",
+            "size": 531
+          }
+        },
+        {
+          "id": "nebula.file:illager_template.png:1.0.0@jar",
+          "name": "illager_template.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/illager/illager_template.png",
+            "path": "config/easy_npc/skin/illager/illager_template.png",
+            "MD5": "62e2eafe9879c26a5d39f6eed5a0d4c0",
+            "size": 300
+          }
+        },
+        {
+          "id": "nebula.file:iron_golem_template.png:1.0.0@jar",
+          "name": "iron_golem_template.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/iron_golem/iron_golem_template.png",
+            "path": "config/easy_npc/skin/iron_golem/iron_golem_template.png",
+            "MD5": "041e19a3a9e328e569c1572c60bf7f82",
+            "size": 451
+          }
+        },
+        {
+          "id": "nebula.file:orc_template.png:1.0.0@jar",
+          "name": "orc_template.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/orc/orc_template.png",
+            "path": "config/easy_npc/skin/orc/orc_template.png",
+            "MD5": "529d5d314ad4dc8f697f7341f35cab74",
+            "size": 521
+          }
+        },
+        {
+          "id": "nebula.file:pig_template.png:1.0.0@jar",
+          "name": "pig_template.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/pig/pig_template.png",
+            "path": "config/easy_npc/skin/pig/pig_template.png",
+            "MD5": "cfc2538d1df812a5ee4ced14b78f9fd3",
+            "size": 270
+          }
+        },
+        {
+          "id": "nebula.file:piglin_template.png:1.0.0@jar",
+          "name": "piglin_template.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/piglin/piglin_template.png",
+            "path": "config/easy_npc/skin/piglin/piglin_template.png",
+            "MD5": "54ae451400c57b4832f976487e7bf629",
+            "size": 361
+          }
+        },
+        {
+          "id": "nebula.file:skeleton_template.png:1.0.0@jar",
+          "name": "skeleton_template.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/skeleton/skeleton_template.png",
+            "path": "config/easy_npc/skin/skeleton/skeleton_template.png",
+            "MD5": "b6f689ff48f8cd4b03a51947133a3857",
+            "size": 259
+          }
+        },
+        {
+          "id": "nebula.file:spider_template.png:1.0.0@jar",
+          "name": "spider_template.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/spider/spider_template.png",
+            "path": "config/easy_npc/skin/spider/spider_template.png",
+            "MD5": "03664e96aea4f091f754f2b853f2b853",
+            "size": 308
+          }
+        },
+        {
+          "id": "nebula.file:stray_template.png:1.0.0@jar",
+          "name": "stray_template.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/stray/stray_template.png",
+            "path": "config/easy_npc/skin/stray/stray_template.png",
+            "MD5": "66e672cdead5768165586f4b24c1f61c",
+            "size": 531
+          }
+        },
+        {
+          "id": "nebula.file:vex_template.png:1.0.0@jar",
+          "name": "vex_template.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/vex/vex_template.png",
+            "path": "config/easy_npc/skin/vex/vex_template.png",
+            "MD5": "37f6d362729979569dd8f1f4e6429f07",
+            "size": 247
+          }
+        },
+        {
+          "id": "nebula.file:villager_template.png:1.0.0@jar",
+          "name": "villager_template.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/villager/villager_template.png",
+            "path": "config/easy_npc/skin/villager/villager_template.png",
+            "MD5": "30e84778924e6c66aef598b8a3cd728a",
+            "size": 357
+          }
+        },
+        {
+          "id": "nebula.file:villager_without_hat_template.png:1.0.0@jar",
+          "name": "villager_without_hat_template.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/villager/villager_without_hat_template.png",
+            "path": "config/easy_npc/skin/villager/villager_without_hat_template.png",
+            "MD5": "3d8bca495a0fad6240e900d343c9f1d7",
+            "size": 331
+          }
+        },
+        {
+          "id": "nebula.file:witch_template.png:1.0.0@jar",
+          "name": "witch_template.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/witch/witch_template.png",
+            "path": "config/easy_npc/skin/witch/witch_template.png",
+            "MD5": "3f15cb59a845607aca5614bd12e9df62",
+            "size": 431
+          }
+        },
+        {
+          "id": "nebula.file:wolf_template.png:1.0.0@jar",
+          "name": "wolf_template.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/wolf/wolf_template.png",
+            "path": "config/easy_npc/skin/wolf/wolf_template.png",
+            "MD5": "0adf39c4b15ec11850e85fdfcd8e0a59",
+            "size": 321
+          }
+        },
+        {
+          "id": "nebula.file:zombie_template.png:1.0.0@jar",
+          "name": "zombie_template.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/zombie/zombie_template.png",
+            "path": "config/easy_npc/skin/zombie/zombie_template.png",
+            "MD5": "a38b0b7043eb7c0e91379628aeed1db2",
+            "size": 292
+          }
+        },
+        {
+          "id": "nebula.file:zombie_villager_template.png:1.0.0@jar",
+          "name": "zombie_villager_template.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/skin/zombie_villager/zombie_villager_template.png",
+            "path": "config/easy_npc/skin/zombie_villager/zombie_villager_template.png",
+            "MD5": "b0748467bd2149105ad4d922c7799ed0",
+            "size": 356
+          }
+        },
+        {
+          "id": "nebula.file:spawner_type.cfg:1.0.0@jar",
+          "name": "spawner_type.cfg",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/spawner_type.cfg",
+            "path": "config/easy_npc/spawner_type.cfg",
+            "MD5": "dd656ea1c59fcb275207f65d2966ddc0",
+            "size": 963
+          }
+        },
+        {
+          "id": "nebula.file:user_defined_npcs.json:1.0.0@jar",
+          "name": "user_defined_npcs.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/easy_npc/user_defined_npcs.json",
+            "path": "config/easy_npc/user_defined_npcs.json",
+            "MD5": "d82b4dd015a0cde1b54fb7055bc7f6fb",
+            "size": 465
+          }
+        },
+        {
+          "id": "nebula.file:entityculling.json:1.0.0@jar",
+          "name": "entityculling.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/entityculling.json",
+            "path": "config/entityculling.json",
+            "MD5": "b30768c2fa874eb307b674360c8c3e53",
+            "size": 1106
+          }
+        },
+        {
+          "id": "nebula.file:entity_model_features.json:1.0.0@jar",
+          "name": "entity_model_features.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/entity_model_features.json",
+            "path": "config/entity_model_features.json",
+            "MD5": "e55bb849b0f86e7aee7edc8241eb346c",
+            "size": 1000
+          }
+        },
+        {
+          "id": "nebula.file:entity_texture_features.json:1.0.0@jar",
+          "name": "entity_texture_features.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/entity_texture_features.json",
+            "path": "config/entity_texture_features.json",
+            "MD5": "8355d3ba86cb4f849a2df694b3e668ce",
+            "size": 1423
+          }
+        },
+        {
+          "id": "nebula.file:etf_warnings.json:1.0.0@jar",
+          "name": "etf_warnings.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/etf_warnings.json",
+            "path": "config/etf_warnings.json",
+            "MD5": "b49b5603d2df29fa132f89ec91974572",
+            "size": 28
+          }
+        },
+        {
+          "id": "nebula.file:euphoria_patcher.properties:1.0.0@jar",
+          "name": "euphoria_patcher.properties",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/euphoria_patcher.properties",
+            "path": "config/euphoria_patcher.properties",
+            "MD5": "c7625d5c1cb9c6886b419ddfba30df6d",
+            "size": 1705
+          }
+        },
+        {
+          "id": "nebula.file:indigo-renderer.properties:1.0.0@jar",
+          "name": "indigo-renderer.properties",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fabric/indigo-renderer.properties",
+            "path": "config/fabric/indigo-renderer.properties",
+            "MD5": "5449fe3037de18fc08ace84841368ad0",
+            "size": 290
+          }
+        },
+        {
+          "id": "nebula.file:bg_test.png:1.0.0@jar",
+          "name": "bg_test.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/assets/bg_test.png",
+            "path": "config/fancymenu/assets/bg_test.png",
+            "MD5": "f475298605fd3c0f04240b986b16769a",
+            "size": 871140
+          }
+        },
+        {
+          "id": "nebula.file:cobbleverse_icon_16.png:1.0.0@jar",
+          "name": "cobbleverse_icon_16.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/assets/cobbleverse_icon_16.png",
+            "path": "config/fancymenu/assets/cobbleverse_icon_16.png",
+            "MD5": "c060cc05af02ba62a1f9fa1fda9f99a0",
+            "size": 3634
+          }
+        },
+        {
+          "id": "nebula.file:cobbleverse_icon_32.icns:1.0.0@jar",
+          "name": "cobbleverse_icon_32.icns",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/assets/cobbleverse_icon_32.icns",
+            "path": "config/fancymenu/assets/cobbleverse_icon_32.icns",
+            "MD5": "493232e0fb40496f0b583ffcf6109cea",
+            "size": 115281
+          }
+        },
+        {
+          "id": "nebula.file:cobbleverse_icon_32.png:1.0.0@jar",
+          "name": "cobbleverse_icon_32.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/assets/cobbleverse_icon_32.png",
+            "path": "config/fancymenu/assets/cobbleverse_icon_32.png",
+            "MD5": "491cdf12ce895fb50b78bc430a072b9d",
+            "size": 5085
+          }
+        },
+        {
+          "id": "nebula.file:cobbleverse_title.png:1.0.0@jar",
+          "name": "cobbleverse_title.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/assets/cobbleverse_title.png",
+            "path": "config/fancymenu/assets/cobbleverse_title.png",
+            "MD5": "96e9fc17391997a2926e65d02ab8d8bd",
+            "size": 227564
+          }
+        },
+        {
+          "id": "nebula.file:discord_icon.png:1.0.0@jar",
+          "name": "discord_icon.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/assets/discord_icon.png",
+            "path": "config/fancymenu/assets/discord_icon.png",
+            "MD5": "d7175efbeb6dae6832d860015c154734",
+            "size": 24230
+          }
+        },
+        {
+          "id": "nebula.file:latias_latios_background.png:1.0.0@jar",
+          "name": "latias_latios_background.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/assets/latias_latios_background.png",
+            "path": "config/fancymenu/assets/latias_latios_background.png",
+            "MD5": "ec447b08d179a2858bfb23d90dcbb19d",
+            "size": 2913129
+          }
+        },
+        {
+          "id": "nebula.file:pokedex_menu.png:1.0.0@jar",
+          "name": "pokedex_menu.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/assets/pokedex_menu.png",
+            "path": "config/fancymenu/assets/pokedex_menu.png",
+            "MD5": "3791bbc55d912a5b9a7354aafef82e5b",
+            "size": 242445
+          }
+        },
+        {
+          "id": "nebula.file:slideshow_frame.png:1.0.0@jar",
+          "name": "slideshow_frame.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/assets/slideshow_frame.png",
+            "path": "config/fancymenu/assets/slideshow_frame.png",
+            "MD5": "7283d566bec18fc4ddf1f1659a777cd9",
+            "size": 4382
+          }
+        },
+        {
+          "id": "nebula.file:customizablemenus.txt:1.0.0@jar",
+          "name": "customizablemenus.txt",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/customizablemenus.txt",
+            "path": "config/fancymenu/customizablemenus.txt",
+            "MD5": "83153816f56937035f8f45d46f5c3658",
+            "size": 113
+          }
+        },
+        {
+          "id": "nebula.file:cobbleverse_main.txt:1.0.0@jar",
+          "name": "cobbleverse_main.txt",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/customization/cobbleverse_main.txt",
+            "path": "config/fancymenu/customization/cobbleverse_main.txt",
+            "MD5": "4ce4bc01624f89283edd574070e7f3fb",
+            "size": 43165
+          }
+        },
+        {
+          "id": "nebula.file:cobbleverse_multiplayer_screen.txt:1.0.0@jar",
+          "name": "cobbleverse_multiplayer_screen.txt",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/customization/cobbleverse_multiplayer_screen.txt",
+            "path": "config/fancymenu/customization/cobbleverse_multiplayer_screen.txt",
+            "MD5": "a6b975df13300dcc0325ce16a0aa8e2a",
+            "size": 16440
+          }
+        },
+        {
+          "id": "nebula.file:cobbleverse_pause_menu.txt:1.0.0@jar",
+          "name": "cobbleverse_pause_menu.txt",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/customization/cobbleverse_pause_menu.txt",
+            "path": "config/fancymenu/customization/cobbleverse_pause_menu.txt",
+            "MD5": "62ae2750dee1154c085a98e1b7ca3db2",
+            "size": 28218
+          }
+        },
+        {
+          "id": "nebula.file:custom_gui_screens.txt:1.0.0@jar",
+          "name": "custom_gui_screens.txt",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/custom_gui_screens.txt",
+            "path": "config/fancymenu/custom_gui_screens.txt",
+            "MD5": "aee0e4dd049421f87938f6175b3a392b",
+            "size": 442
+          }
+        },
+        {
+          "id": "nebula.file:element_layer_control.lewidget:1.0.0@jar",
+          "name": "element_layer_control.lewidget",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+            "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+            "MD5": "faed889d9964bccd3dd776cb69212ab0",
+            "size": 201
+          }
+        },
+        {
+          "id": "nebula.file:legacy_checklist.txt:1.0.0@jar",
+          "name": "legacy_checklist.txt",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/legacy_checklist.txt",
+            "path": "config/fancymenu/legacy_checklist.txt",
+            "MD5": "bc03e01c4f1bf1e24e9b86591baa512b",
+            "size": 42
+          }
+        },
+        {
+          "id": "nebula.file:alfredogym.png:1.0.0@jar",
+          "name": "AlfredoGym.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/slideshows/pokedex/images/AlfredoGym.png",
+            "path": "config/fancymenu/slideshows/pokedex/images/AlfredoGym.png",
+            "MD5": "d440028bf7b0d621aa73cf641b32bb79",
+            "size": 363503
+          }
+        },
+        {
+          "id": "nebula.file:ashhouse.png:1.0.0@jar",
+          "name": "AshHouse.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/slideshows/pokedex/images/AshHouse.png",
+            "path": "config/fancymenu/slideshows/pokedex/images/AshHouse.png",
+            "MD5": "47b80af45d95f37c91c7acf3fbf9264b",
+            "size": 416308
+          }
+        },
+        {
+          "id": "nebula.file:brockvsmisty.png:1.0.0@jar",
+          "name": "BrockVSMisty.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/slideshows/pokedex/images/BrockVSMisty.png",
+            "path": "config/fancymenu/slideshows/pokedex/images/BrockVSMisty.png",
+            "MD5": "309adce7011e5fef255aca876801cfb7",
+            "size": 383254
+          }
+        },
+        {
+          "id": "nebula.file:championcamilla.png:1.0.0@jar",
+          "name": "ChampionCamilla.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/slideshows/pokedex/images/ChampionCamilla.png",
+            "path": "config/fancymenu/slideshows/pokedex/images/ChampionCamilla.png",
+            "MD5": "46bcec71f5db7692959f70f93e324825",
+            "size": 272597
+          }
+        },
+        {
+          "id": "nebula.file:crowncemetery.png:1.0.0@jar",
+          "name": "CrownCemetery.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/slideshows/pokedex/images/CrownCemetery.png",
+            "path": "config/fancymenu/slideshows/pokedex/images/CrownCemetery.png",
+            "MD5": "987ae1c3a977ff2ad7b80aa7dcbcf965",
+            "size": 364738
+          }
+        },
+        {
+          "id": "nebula.file:deoxysmeteorite.png:1.0.0@jar",
+          "name": "DeoxysMeteorite.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/slideshows/pokedex/images/DeoxysMeteorite.png",
+            "path": "config/fancymenu/slideshows/pokedex/images/DeoxysMeteorite.png",
+            "MD5": "ece93baacea28d26bbf9bc4ab2c5dafd",
+            "size": 315510
+          }
+        },
+        {
+          "id": "nebula.file:fanniegym.png:1.0.0@jar",
+          "name": "FannieGym.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/slideshows/pokedex/images/FannieGym.png",
+            "path": "config/fancymenu/slideshows/pokedex/images/FannieGym.png",
+            "MD5": "9a70b797ae12dd174145b4dd935bb03f",
+            "size": 329883
+          }
+        },
+        {
+          "id": "nebula.file:flyingtaxi.png:1.0.0@jar",
+          "name": "FlyingTaxi.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/slideshows/pokedex/images/FlyingTaxi.png",
+            "path": "config/fancymenu/slideshows/pokedex/images/FlyingTaxi.png",
+            "MD5": "4f5989449d75e29479ee6c15e3e8ec4f",
+            "size": 448203
+          }
+        },
+        {
+          "id": "nebula.file:furiogym.png:1.0.0@jar",
+          "name": "FurioGym.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/slideshows/pokedex/images/FurioGym.png",
+            "path": "config/fancymenu/slideshows/pokedex/images/FurioGym.png",
+            "MD5": "6b6f539e13fa51ea887cfbb68140a762",
+            "size": 414132
+          }
+        },
+        {
+          "id": "nebula.file:gengargmax.png:1.0.0@jar",
+          "name": "GengarGmax.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/slideshows/pokedex/images/GengarGmax.png",
+            "path": "config/fancymenu/slideshows/pokedex/images/GengarGmax.png",
+            "MD5": "daf00534104c191b07b34b43b594649e",
+            "size": 312456
+          }
+        },
+        {
+          "id": "nebula.file:groudonvolcano.png:1.0.0@jar",
+          "name": "GroudonVolcano.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/slideshows/pokedex/images/GroudonVolcano.png",
+            "path": "config/fancymenu/slideshows/pokedex/images/GroudonVolcano.png",
+            "MD5": "2e0a209343f78dd78a7eb6234aaeff88",
+            "size": 399767
+          }
+        },
+        {
+          "id": "nebula.file:hoennleague.png:1.0.0@jar",
+          "name": "HoennLeague.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/slideshows/pokedex/images/HoennLeague.png",
+            "path": "config/fancymenu/slideshows/pokedex/images/HoennLeague.png",
+            "MD5": "b347acf2d9fc41dd5224bf0dc6f9915c",
+            "size": 408119
+          }
+        },
+        {
+          "id": "nebula.file:housefurnitures.png:1.0.0@jar",
+          "name": "HouseFurnitures.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/slideshows/pokedex/images/HouseFurnitures.png",
+            "path": "config/fancymenu/slideshows/pokedex/images/HouseFurnitures.png",
+            "MD5": "f7383f0265773a97658366e10d407ea4",
+            "size": 357965
+          }
+        },
+        {
+          "id": "nebula.file:johtoleague.png:1.0.0@jar",
+          "name": "JohtoLeague.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/slideshows/pokedex/images/JohtoLeague.png",
+            "path": "config/fancymenu/slideshows/pokedex/images/JohtoLeague.png",
+            "MD5": "82c4864fab41ba4db83472bb128a3a84",
+            "size": 278869
+          }
+        },
+        {
+          "id": "nebula.file:kantocartographer.png:1.0.0@jar",
+          "name": "KantoCartographer.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/slideshows/pokedex/images/KantoCartographer.png",
+            "path": "config/fancymenu/slideshows/pokedex/images/KantoCartographer.png",
+            "MD5": "947f65a77bbd7b9640e9afd104417fc1",
+            "size": 334955
+          }
+        },
+        {
+          "id": "nebula.file:kyogretemple.png:1.0.0@jar",
+          "name": "KyogreTemple.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/slideshows/pokedex/images/KyogreTemple.png",
+            "path": "config/fancymenu/slideshows/pokedex/images/KyogreTemple.png",
+            "MD5": "5f8c14cca937aea79aaace58082dbfc2",
+            "size": 291554
+          }
+        },
+        {
+          "id": "nebula.file:legendarybirds.png:1.0.0@jar",
+          "name": "LegendaryBirds.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/slideshows/pokedex/images/LegendaryBirds.png",
+            "path": "config/fancymenu/slideshows/pokedex/images/LegendaryBirds.png",
+            "MD5": "bec48410e1ceb06bcfba00267b18554a",
+            "size": 442680
+          }
+        },
+        {
+          "id": "nebula.file:mistygym.png:1.0.0@jar",
+          "name": "MistyGym.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/slideshows/pokedex/images/MistyGym.png",
+            "path": "config/fancymenu/slideshows/pokedex/images/MistyGym.png",
+            "MD5": "14a71e6566ada19b577bf82b419f999b",
+            "size": 396909
+          }
+        },
+        {
+          "id": "nebula.file:necrozmatowers.png:1.0.0@jar",
+          "name": "NecrozmaTowers.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/slideshows/pokedex/images/NecrozmaTowers.png",
+            "path": "config/fancymenu/slideshows/pokedex/images/NecrozmaTowers.png",
+            "MD5": "b1920911e185fd4560fc974f5f88c819",
+            "size": 364167
+          }
+        },
+        {
+          "id": "nebula.file:origintemple.png:1.0.0@jar",
+          "name": "OriginTemple.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/slideshows/pokedex/images/OriginTemple.png",
+            "path": "config/fancymenu/slideshows/pokedex/images/OriginTemple.png",
+            "MD5": "9baf16156bec4469caa0a67fa66beaeb",
+            "size": 360871
+          }
+        },
+        {
+          "id": "nebula.file:pokemart.png:1.0.0@jar",
+          "name": "PokeMart.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/slideshows/pokedex/images/PokeMart.png",
+            "path": "config/fancymenu/slideshows/pokedex/images/PokeMart.png",
+            "MD5": "89fb1cf18f624763832224a2bfc416ad",
+            "size": 401999
+          }
+        },
+        {
+          "id": "nebula.file:pokemoncenter.png:1.0.0@jar",
+          "name": "PokemonCenter.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/slideshows/pokedex/images/PokemonCenter.png",
+            "path": "config/fancymenu/slideshows/pokedex/images/PokemonCenter.png",
+            "MD5": "958284d16122d402f534cc9cacf583ab",
+            "size": 427416
+          }
+        },
+        {
+          "id": "nebula.file:radiotower.png:1.0.0@jar",
+          "name": "RadioTower.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/slideshows/pokedex/images/RadioTower.png",
+            "path": "config/fancymenu/slideshows/pokedex/images/RadioTower.png",
+            "MD5": "f6bbd5f4e9e5a2c30992a29965a01932",
+            "size": 311724
+          }
+        },
+        {
+          "id": "nebula.file:regidragocave.png:1.0.0@jar",
+          "name": "RegidragoCave.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/slideshows/pokedex/images/RegidragoCave.png",
+            "path": "config/fancymenu/slideshows/pokedex/images/RegidragoCave.png",
+            "MD5": "27e1309625144ca83d32dfa28c4912e5",
+            "size": 253012
+          }
+        },
+        {
+          "id": "nebula.file:regigigastemple.png:1.0.0@jar",
+          "name": "RegigigasTemple.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/slideshows/pokedex/images/RegigigasTemple.png",
+            "path": "config/fancymenu/slideshows/pokedex/images/RegigigasTemple.png",
+            "MD5": "ffed8388c13ce1c04c6ec8d30905347a",
+            "size": 389920
+          }
+        },
+        {
+          "id": "nebula.file:regirocktemple.png:1.0.0@jar",
+          "name": "RegirockTemple.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/slideshows/pokedex/images/RegirockTemple.png",
+            "path": "config/fancymenu/slideshows/pokedex/images/RegirockTemple.png",
+            "MD5": "1b3fc4f8e92c39ff5da0839b0916aff9",
+            "size": 411253
+          }
+        },
+        {
+          "id": "nebula.file:registeeltemple.png:1.0.0@jar",
+          "name": "RegisteelTemple.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/slideshows/pokedex/images/RegisteelTemple.png",
+            "path": "config/fancymenu/slideshows/pokedex/images/RegisteelTemple.png",
+            "MD5": "ef702bb80268081090428c5c139740d4",
+            "size": 278721
+          }
+        },
+        {
+          "id": "nebula.file:sabrinagym.png:1.0.0@jar",
+          "name": "SabrinaGym.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/slideshows/pokedex/images/SabrinaGym.png",
+            "path": "config/fancymenu/slideshows/pokedex/images/SabrinaGym.png",
+            "MD5": "4a9adec91d807396a1f486a28fe05fbb",
+            "size": 270673
+          }
+        },
+        {
+          "id": "nebula.file:secretgarden.png:1.0.0@jar",
+          "name": "SecretGarden.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/slideshows/pokedex/images/SecretGarden.png",
+            "path": "config/fancymenu/slideshows/pokedex/images/SecretGarden.png",
+            "MD5": "c0810e46747c4b63ab45aaf6eedb6e89",
+            "size": 341900
+          }
+        },
+        {
+          "id": "nebula.file:sinnohleague.png:1.0.0@jar",
+          "name": "SinnohLeague.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/slideshows/pokedex/images/SinnohLeague.png",
+            "path": "config/fancymenu/slideshows/pokedex/images/SinnohLeague.png",
+            "MD5": "90538b6f1e6bc52d30aa04f4186f5b58",
+            "size": 373808
+          }
+        },
+        {
+          "id": "nebula.file:teamrocket.png:1.0.0@jar",
+          "name": "TeamRocket.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/slideshows/pokedex/images/TeamRocket.png",
+            "path": "config/fancymenu/slideshows/pokedex/images/TeamRocket.png",
+            "MD5": "fdf9a75b1cb9565ef2a6621b1bac4603",
+            "size": 224343
+          }
+        },
+        {
+          "id": "nebula.file:teamrocketradio.png:1.0.0@jar",
+          "name": "TeamRocketRadio.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/slideshows/pokedex/images/TeamRocketRadio.png",
+            "path": "config/fancymenu/slideshows/pokedex/images/TeamRocketRadio.png",
+            "MD5": "77a847dd64891ec5ee93977e015cbfc5",
+            "size": 330164
+          }
+        },
+        {
+          "id": "nebula.file:whirlisland.png:1.0.0@jar",
+          "name": "WhirlIsland.png",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/slideshows/pokedex/images/WhirlIsland.png",
+            "path": "config/fancymenu/slideshows/pokedex/images/WhirlIsland.png",
+            "MD5": "d47e4aa740b93abc557e67cbaed48268",
+            "size": 360905
+          }
+        },
+        {
+          "id": "nebula.file:properties.txt:1.0.0@jar",
+          "name": "properties.txt",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/slideshows/pokedex/properties.txt",
+            "path": "config/fancymenu/slideshows/pokedex/properties.txt",
+            "MD5": "5ba6d1a93d065e5596627082b57bec7c",
+            "size": 172
+          }
+        },
+        {
+          "id": "nebula.file:dark.json:1.0.0@jar",
+          "name": "dark.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/ui_themes/dark.json",
+            "path": "config/fancymenu/ui_themes/dark.json",
+            "MD5": "3981f37966b00a80e31aac89169be280",
+            "size": 4133
+          }
+        },
+        {
+          "id": "nebula.file:light.json:1.0.0@jar",
+          "name": "light.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/ui_themes/light.json",
+            "path": "config/fancymenu/ui_themes/light.json",
+            "MD5": "adfba137b3d62c50a5186a4f6523a72a",
+            "size": 4135
+          }
+        },
+        {
+          "id": "nebula.file:user_variables.db:1.0.0@jar",
+          "name": "user_variables.db",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fancymenu/user_variables.db",
+            "path": "config/fancymenu/user_variables.db",
+            "MD5": "458e4f3f673e3fea22fb92bf76fcf912",
+            "size": 23
+          }
+        },
+        {
+          "id": "nebula.file:farmersdelight-client.json:1.0.0@jar",
+          "name": "farmersdelight-client.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/farmersdelight-client.json",
+            "path": "config/farmersdelight-client.json",
+            "MD5": "11157b76957891e69d9a029d77df2210",
+            "size": 263
+          }
+        },
+        {
+          "id": "nebula.file:farmersdelight-common.json:1.0.0@jar",
+          "name": "farmersdelight-common.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/farmersdelight-common.json",
+            "path": "config/farmersdelight-common.json",
+            "MD5": "a447b8eeca34bef4367c12ef023bae82",
+            "size": 1688
+          }
+        },
+        {
+          "id": "nebula.file:ferritecore.mixin.properties:1.0.0@jar",
+          "name": "ferritecore.mixin.properties",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/ferritecore.mixin.properties",
+            "path": "config/ferritecore.mixin.properties",
+            "MD5": "bf3e6be63e300b0290cfc849beb64ede",
+            "size": 1525
+          }
+        },
+        {
+          "id": "nebula.file:fightorflight.json5:1.0.0@jar",
+          "name": "fightorflight.json5",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fightorflight.json5",
+            "path": "config/fightorflight.json5",
+            "MD5": "edfb4d8dacf09cb9d513865178537bbd",
+            "size": 14522
+          }
+        },
+        {
+          "id": "nebula.file:fightorflight_moves.json5:1.0.0@jar",
+          "name": "fightorflight_moves.json5",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fightorflight_moves.json5",
+            "path": "config/fightorflight_moves.json5",
+            "MD5": "ce9e3d70f11aee1c5936df265402805b",
+            "size": 6244
+          }
+        },
+        {
+          "id": "nebula.file:fightorflight_visual_effect.json5:1.0.0@jar",
+          "name": "fightorflight_visual_effect.json5",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/fightorflight_visual_effect.json5",
+            "path": "config/fightorflight_visual_effect.json5",
+            "MD5": "c70f3a37ca8a3f609c26341242e2416c",
+            "size": 1371
+          }
+        },
+        {
+          "id": "nebula.file:flashback.json:1.0.0@jar",
+          "name": "flashback.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/flashback/flashback.json",
+            "path": "config/flashback/flashback.json",
+            "MD5": "7d1bd3b20cb43c3eb66762ea750ea6f2",
+            "size": 2454
+          }
+        },
+        {
+          "id": "nebula.file:imgui.ini:1.0.0@jar",
+          "name": "imgui.ini",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/flashback/imgui.ini",
+            "path": "config/flashback/imgui.ini",
+            "MD5": "e23059b5fa27e41f86374a1eec7d64f8",
+            "size": 800
+          }
+        },
+        {
+          "id": "nebula.file:forgeconfigapiport.toml:1.0.0@jar",
+          "name": "forgeconfigapiport.toml",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/forgeconfigapiport.toml",
+            "path": "config/forgeconfigapiport.toml",
+            "MD5": "80b3cd8edc58e5849bf5a7a0c48bd4ef",
+            "size": 523
+          }
+        },
+        {
+          "id": "nebula.file:forgivingvoid-common.toml:1.0.0@jar",
+          "name": "forgivingvoid-common.toml",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/forgivingvoid-common.toml",
+            "path": "config/forgivingvoid-common.toml",
+            "MD5": "02259db44e6c837c5d50c4d819975407",
+            "size": 1764
+          }
+        },
+        {
+          "id": "nebula.file:global_packs.toml:1.0.0@jar",
+          "name": "global_packs.toml",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/global_packs.toml",
+            "path": "config/global_packs.toml",
+            "MD5": "cd8bcae199e47d8a58766292e6058581",
+            "size": 886
+          }
+        },
+        {
+          "id": "nebula.file:immediatelyfast.json:1.0.0@jar",
+          "name": "immediatelyfast.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/immediatelyfast.json",
+            "path": "config/immediatelyfast.json",
+            "MD5": "7b2d05a9b2f2745055edf3c8d1d0b155",
+            "size": 1060
+          }
+        },
+        {
+          "id": "nebula.file:infinite-music-options.json:1.0.0@jar",
+          "name": "infinite-music-options.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/infinite-music-options.json",
+            "path": "config/infinite-music-options.json",
+            "MD5": "83909056c5f6c7d052554804f114ee05",
+            "size": 526
+          }
+        },
+        {
+          "id": "nebula.file:interactic.json5:1.0.0@jar",
+          "name": "interactic.json5",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/interactic.json5",
+            "path": "config/interactic.json5",
+            "MD5": "2049604e8f1075955b846e48f5817690",
+            "size": 1026
+          }
+        },
+        {
+          "id": "nebula.file:iris-excluded.json:1.0.0@jar",
+          "name": "iris-excluded.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/iris-excluded.json",
+            "path": "config/iris-excluded.json",
+            "MD5": "670592b1394f12ab96d8432f14ac8dd9",
+            "size": 31
+          }
+        },
+        {
+          "id": "nebula.file:iris.properties:1.0.0@jar",
+          "name": "iris.properties",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/iris.properties",
+            "path": "config/iris.properties",
+            "MD5": "eeab98946e55bccb8d698c0aea4300fe",
+            "size": 298
+          }
+        },
+        {
+          "id": "nebula.file:hide-blocks.json:1.0.0@jar",
+          "name": "hide-blocks.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/jade/hide-blocks.json",
+            "path": "config/jade/hide-blocks.json",
+            "MD5": "83c9f405ab4ae1427f76ab4a30a16644",
+            "size": 149
+          }
+        },
+        {
+          "id": "nebula.file:hide-entities.json:1.0.0@jar",
+          "name": "hide-entities.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/jade/hide-entities.json",
+            "path": "config/jade/hide-entities.json",
+            "MD5": "a52182a33844468228bdbc58dbe5a73a",
+            "size": 243
+          }
+        },
+        {
+          "id": "nebula.file:jade.json:1.0.0@jar",
+          "name": "jade.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/jade/jade.json",
+            "path": "config/jade/jade.json",
+            "MD5": "e404edf4c73a4223434cfeb0d252749a",
+            "size": 1121
+          }
+        },
+        {
+          "id": "nebula.file:plugins.json:1.0.0@jar",
+          "name": "plugins.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/jade/plugins.json",
+            "path": "config/jade/plugins.json",
+            "MD5": "355770a0d6e5aeb439ccdb7e6ba56dbc",
+            "size": 2025
+          }
+        },
+        {
+          "id": "nebula.file:sort-order.json:1.0.0@jar",
+          "name": "sort-order.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/jade/sort-order.json",
+            "path": "config/jade/sort-order.json",
+            "MD5": "71c7857ab429f8dc1a62a54490168525",
+            "size": 2059
+          }
+        },
+        {
+          "id": "nebula.file:usernamecache.json:1.0.0@jar",
+          "name": "usernamecache.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/jade/usernamecache.json",
+            "path": "config/jade/usernamecache.json",
+            "MD5": "4b938e70a6822e9601067ba6f2338c1b",
+            "size": 118
+          }
+        },
+        {
+          "id": "nebula.file:blacklist.json:1.0.0@jar",
+          "name": "blacklist.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/jei/blacklist.json",
+            "path": "config/jei/blacklist.json",
+            "MD5": "78f1a39821342258f73e542d9ea40e0f",
+            "size": 19
+          }
+        },
+        {
+          "id": "nebula.file:ingredient-list-mod-sort-order.ini:1.0.0@jar",
+          "name": "ingredient-list-mod-sort-order.ini",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/jei/ingredient-list-mod-sort-order.ini",
+            "path": "config/jei/ingredient-list-mod-sort-order.ini",
+            "MD5": "c46672c78277de040289460993600195",
+            "size": 782
+          }
+        },
+        {
+          "id": "nebula.file:ingredient-list-type-sort-order.ini:1.0.0@jar",
+          "name": "ingredient-list-type-sort-order.ini",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/jei/ingredient-list-type-sort-order.ini",
+            "path": "config/jei/ingredient-list-type-sort-order.ini",
+            "MD5": "a297d9637a74577adaed06e68221a8a0",
+            "size": 86
+          }
+        },
+        {
+          "id": "nebula.file:jei-client.ini:1.0.0@jar",
+          "name": "jei-client.ini",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/jei/jei-client.ini",
+            "path": "config/jei/jei-client.ini",
+            "MD5": "f5d63394bfb03a7bbcf4e21b6470fb67",
+            "size": 10746
+          }
+        },
+        {
+          "id": "nebula.file:jei-colors.ini:1.0.0@jar",
+          "name": "jei-colors.ini",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/jei/jei-colors.ini",
+            "path": "config/jei/jei-colors.ini",
+            "MD5": "2b1d073ff360c11353f0079b7539cb2e",
+            "size": 1362
+          }
+        },
+        {
+          "id": "nebula.file:jei-debug.ini:1.0.0@jar",
+          "name": "jei-debug.ini",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/jei/jei-debug.ini",
+            "path": "config/jei/jei-debug.ini",
+            "MD5": "6b0b7cc1c5064cdf7189ed814c2668bb",
+            "size": 1326
+          }
+        },
+        {
+          "id": "nebula.file:jei-mod-id-format.ini:1.0.0@jar",
+          "name": "jei-mod-id-format.ini",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/jei/jei-mod-id-format.ini",
+            "path": "config/jei/jei-mod-id-format.ini",
+            "MD5": "7346a8c14352eda612ae4765f6758a62",
+            "size": 489
+          }
+        },
+        {
+          "id": "nebula.file:recipe-category-sort-order.ini:1.0.0@jar",
+          "name": "recipe-category-sort-order.ini",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/jei/recipe-category-sort-order.ini",
+            "path": "config/jei/recipe-category-sort-order.ini",
+            "MD5": "ac30f47aefa3d26586ae2a71bb0e8368",
+            "size": 450
+          }
+        },
+        {
+          "id": "nebula.file:lookuphistory.json:1.0.0@jar",
+          "name": "lookupHistory.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/jei/world/local/New_World/lookupHistory.json",
+            "path": "config/jei/world/local/New_World/lookupHistory.json",
+            "MD5": "22eeb2d0c8d795bb4ddf0fdb751d124d",
+            "size": 2891
+          }
+        },
+        {
+          "id": "nebula.file:de_de.local:1.0.0@jar",
+          "name": "de_de.local",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/konkrete/locals/de_de.local",
+            "path": "config/konkrete/locals/de_de.local",
+            "MD5": "3aac3df2519057d2305f894c37771e30",
+            "size": 369
+          }
+        },
+        {
+          "id": "nebula.file:en_us.local:1.0.0@jar",
+          "name": "en_us.local",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/konkrete/locals/en_us.local",
+            "path": "config/konkrete/locals/en_us.local",
+            "MD5": "56c7ccaa193ba73c0d5c50aff28bb807",
+            "size": 426
+          }
+        },
+        {
+          "id": "nebula.file:pl_pl.local:1.0.0@jar",
+          "name": "pl_pl.local",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/konkrete/locals/pl_pl.local",
+            "path": "config/konkrete/locals/pl_pl.local",
+            "MD5": "c1f5aa5c2d2ac414f75f0ec3cab3b9c8",
+            "size": 313
+          }
+        },
+        {
+          "id": "nebula.file:pt_br.local:1.0.0@jar",
+          "name": "pt_br.local",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/konkrete/locals/pt_br.local",
+            "path": "config/konkrete/locals/pt_br.local",
+            "MD5": "2d055da094c115b94f0e4373a2e06ebe",
+            "size": 322
+          }
+        },
+        {
+          "id": "nebula.file:lenientdeath.json5:1.0.0@jar",
+          "name": "lenientdeath.json5",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/lenientdeath.json5",
+            "path": "config/lenientdeath.json5",
+            "MD5": "2fc73cd147dc536e25e8417018f16093",
+            "size": 21663
+          }
+        },
+        {
+          "id": "nebula.file:libjf-config-core-v2.json5:1.0.0@jar",
+          "name": "libjf-config-core-v2.json5",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/libjf-config-core-v2.json5",
+            "path": "config/libjf-config-core-v2.json5",
+            "MD5": "a0b936b5be9e5f242dc4a57d6bb41640",
+            "size": 29
+          }
+        },
+        {
+          "id": "nebula.file:libjf-translate-v1.json5:1.0.0@jar",
+          "name": "libjf-translate-v1.json5",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/libjf-translate-v1.json5",
+            "path": "config/libjf-translate-v1.json5",
+            "MD5": "d71a11c837f3ea4d2e70f0c930d7a727",
+            "size": 111
+          }
+        },
+        {
+          "id": "nebula.file:libjf-web-v1.json5:1.0.0@jar",
+          "name": "libjf-web-v1.json5",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/libjf-web-v1.json5",
+            "path": "config/libjf-web-v1.json5",
+            "MD5": "00f51dcd5e367a4b8c9a198de6a068ed",
+            "size": 126
+          }
+        },
+        {
+          "id": "nebula.file:lithium.properties:1.0.0@jar",
+          "name": "lithium.properties",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/lithium.properties",
+            "path": "config/lithium.properties",
+            "MD5": "65a61a8f2201e0a571d48a7f0295da19",
+            "size": 267
+          }
+        },
+        {
+          "id": "nebula.file:loadsupport.toml:1.0.0@jar",
+          "name": "loadsupport.toml",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/loadsupport.toml",
+            "path": "config/loadsupport.toml",
+            "MD5": "67e124b55a5a8f2d9b0e74c1c14aacc4",
+            "size": 224
+          }
+        },
+        {
+          "id": "nebula.file:malilib.json:1.0.0@jar",
+          "name": "malilib.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/malilib.json",
+            "path": "config/malilib.json",
+            "MD5": "f5c1944e7c21adb7f2ff09e9127d95c3",
+            "size": 569
+          }
+        },
+        {
+          "id": "nebula.file:mega_showdown-common.toml:1.0.0@jar",
+          "name": "mega_showdown-common.toml",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/mega_showdown-common.toml",
+            "path": "config/mega_showdown-common.toml",
+            "MD5": "3da3245b74268d0a2bfbb5976e55a5a5",
+            "size": 2100
+          }
+        },
+        {
+          "id": "nebula.file:midnightlib.json:1.0.0@jar",
+          "name": "midnightlib.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/midnightlib.json",
+            "path": "config/midnightlib.json",
+            "MD5": "5d33d36208b50f3a0951695c2e806d98",
+            "size": 37
+          }
+        },
+        {
+          "id": "nebula.file:mobsbegone-blacklist.json:1.0.0@jar",
+          "name": "mobsbegone-blacklist.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/mobsbegone-blacklist.json",
+            "path": "config/mobsbegone-blacklist.json",
+            "MD5": "92facee8212fec3f2af083ad197e9b6f",
+            "size": 1942
+          }
+        },
+        {
+          "id": "nebula.file:modernfix-mixins.properties:1.0.0@jar",
+          "name": "modernfix-mixins.properties",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/modernfix-mixins.properties",
+            "path": "config/modernfix-mixins.properties",
+            "MD5": "259d280fb63195be3a723ef3754dacf2",
+            "size": 4087
+          }
+        },
+        {
+          "id": "nebula.file:modmenu.json:1.0.0@jar",
+          "name": "modmenu.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/modmenu.json",
+            "path": "config/modmenu.json",
+            "MD5": "712711ee087f1ff4fc6e4a38468444ce",
+            "size": 830
+          }
+        },
+        {
+          "id": "nebula.file:monolib-common.toml:1.0.0@jar",
+          "name": "monolib-common.toml",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/monolib-common.toml",
+            "path": "config/monolib-common.toml",
+            "MD5": "f3b3cf601fa9098b781f0832b7b0f630",
+            "size": 230
+          }
+        },
+        {
+          "id": "nebula.file:moreculling.toml:1.0.0@jar",
+          "name": "moreculling.toml",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/moreculling.toml",
+            "path": "config/moreculling.toml",
+            "MD5": "5664006b56506071751b0fde8324985a",
+            "size": 538
+          }
+        },
+        {
+          "id": "nebula.file:mousetweaks.cfg:1.0.0@jar",
+          "name": "MouseTweaks.cfg",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/MouseTweaks.cfg",
+            "path": "config/MouseTweaks.cfg",
+            "MD5": "ff577ca09e989c07c056c7cdff465be3",
+            "size": 135
+          }
+        },
+        {
+          "id": "nebula.file:musicnotification.json:1.0.0@jar",
+          "name": "musicnotification.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/musicnotification.json",
+            "path": "config/musicnotification.json",
+            "MD5": "b69d534f00a1ebb3fe775046f401dd5d",
+            "size": 341
+          }
+        },
+        {
+          "id": "nebula.file:naturescompass.json:1.0.0@jar",
+          "name": "naturescompass.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/naturescompass.json",
+            "path": "config/naturescompass.json",
+            "MD5": "ceb344e12636902d35f9bb7b78062c07",
+            "size": 1834
+          }
+        },
+        {
+          "id": "nebula.file:nethermap.toml:1.0.0@jar",
+          "name": "nethermap.toml",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/nethermap.toml",
+            "path": "config/nethermap.toml",
+            "MD5": "946178a63a9dbf46bace82869dd94063",
+            "size": 138
+          }
+        },
+        {
+          "id": "nebula.file:notenoughanimations.json:1.0.0@jar",
+          "name": "notenoughanimations.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/notenoughanimations.json",
+            "path": "config/notenoughanimations.json",
+            "MD5": "30a7b6ef5b92ce31fbb8ba61bcda7516",
+            "size": 1499
+          }
+        },
+        {
+          "id": "nebula.file:notenoughcrashes.json:1.0.0@jar",
+          "name": "notenoughcrashes.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/notenoughcrashes.json",
+            "path": "config/notenoughcrashes.json",
+            "MD5": "31461b5763f73ea1074a172ac13665cf",
+            "size": 156
+          }
+        },
+        {
+          "id": "nebula.file:obc-common.toml:1.0.0@jar",
+          "name": "obc-common.toml",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/obc-common.toml",
+            "path": "config/obc-common.toml",
+            "MD5": "19bc3bb128fac5528a12ec4bc06760d8",
+            "size": 719
+          }
+        },
+        {
+          "id": "nebula.file:packetfixer.properties:1.0.0@jar",
+          "name": "packetfixer.properties",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/packetfixer.properties",
+            "path": "config/packetfixer.properties",
+            "MD5": "f7903cc430246adf8f7ab0cbcf5cd73b",
+            "size": 487
+          }
+        },
+        {
+          "id": "nebula.file:paginatedadvancements.json5:1.0.0@jar",
+          "name": "PaginatedAdvancements.json5",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/PaginatedAdvancements.json5",
+            "path": "config/PaginatedAdvancements.json5",
+            "MD5": "cc8f05305789ac96bae62260457057e0",
+            "size": 351
+          }
+        },
+        {
+          "id": "nebula.file:particlerain.json5:1.0.0@jar",
+          "name": "particlerain.json5",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/particlerain.json5",
+            "path": "config/particlerain.json5",
+            "MD5": "2ea11acf08277e6cda1847f84e07eb62",
+            "size": 1720
+          }
+        },
+        {
+          "id": "nebula.file:particular.json5:1.0.0@jar",
+          "name": "particular.json5",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/particular.json5",
+            "path": "config/particular.json5",
+            "MD5": "2b870b52d86a37c405dd5cd3d6b67458",
+            "size": 1122
+          }
+        },
+        {
+          "id": "nebula.file:pastureloot.json:1.0.0@jar",
+          "name": "PastureLoot.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/PastureLoot.json",
+            "path": "config/PastureLoot.json",
+            "MD5": "3a6d3f16837256695b43c6f34ed7928e",
+            "size": 1002
+          }
+        },
+        {
+          "id": "nebula.file:ping-wheel.json:1.0.0@jar",
+          "name": "ping-wheel.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/ping-wheel.json",
+            "path": "config/ping-wheel.json",
+            "MD5": "59fb2b54f3c2a7f1c765417cf9aabd31",
+            "size": 359
+          }
+        },
+        {
+          "id": "nebula.file:ping-wheel.server.json:1.0.0@jar",
+          "name": "ping-wheel.server.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/ping-wheel.server.json",
+            "path": "config/ping-wheel.server.json",
+            "MD5": "89d8fdd4c5776a17db98424eebc04503",
+            "size": 111
+          }
+        },
+        {
+          "id": "nebula.file:playerxp.json:1.0.0@jar",
+          "name": "playerxp.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/playerxp/playerxp.json",
+            "path": "config/playerxp/playerxp.json",
+            "MD5": "2c8ddf1c8b2cc9f814e48b2eda37be39",
+            "size": 65
+          }
+        },
+        {
+          "id": "nebula.file:rctmod-client-1.toml.bak:1.0.0@jar",
+          "name": "rctmod-client-1.toml.bak",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/rctmod-client-1.toml.bak",
+            "path": "config/rctmod-client-1.toml.bak",
+            "MD5": "3fb977a4cca7e56519196df24b25f825",
+            "size": 755
+          }
+        },
+        {
+          "id": "nebula.file:rctmod-client.toml:1.0.0@jar",
+          "name": "rctmod-client.toml",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/rctmod-client.toml",
+            "path": "config/rctmod-client.toml",
+            "MD5": "b639cb6ffc222e50d8c173924e073937",
+            "size": 807
+          }
+        },
+        {
+          "id": "nebula.file:rctmod-server-1.toml.bak:1.0.0@jar",
+          "name": "rctmod-server-1.toml.bak",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/rctmod-server-1.toml.bak",
+            "path": "config/rctmod-server-1.toml.bak",
+            "MD5": "5652deabd71806af336454134aaf694e",
+            "size": 7094
+          }
+        },
+        {
+          "id": "nebula.file:rctmod-server.toml:1.0.0@jar",
+          "name": "rctmod-server.toml",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/rctmod-server.toml",
+            "path": "config/rctmod-server.toml",
+            "MD5": "19c83f10e69ce61768674ebe792f9662",
+            "size": 8541
+          }
+        },
+        {
+          "id": "nebula.file:repurposed_structures.json:1.0.0@jar",
+          "name": "repurposed_structures.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/repurposed_structures.json",
+            "path": "config/repurposed_structures.json",
+            "MD5": "d2bc0fd0c85daf4a309379b73baac2ea",
+            "size": 88
+          }
+        },
+        {
+          "id": "nebula.file:resourcepackoverrides.json:1.0.0@jar",
+          "name": "resourcepackoverrides.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/resourcepackoverrides.json",
+            "path": "config/resourcepackoverrides.json",
+            "MD5": "2e86deb0fb925d3c16f2cf269bb9982d",
+            "size": 20587
+          }
+        },
+        {
+          "id": "nebula.file:_respackopts.conf:1.0.0@jar",
+          "name": "_respackopts.conf",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/respackopts/_respackopts.conf",
+            "path": "config/respackopts/_respackopts.conf",
+            "MD5": "2cfdacffd018192f60f6297ed343a30a",
+            "size": 262
+          }
+        },
+        {
+          "id": "nebula.file:collapsible.json5:1.0.0@jar",
+          "name": "collapsible.json5",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/roughlyenoughitems/collapsible.json5",
+            "path": "config/roughlyenoughitems/collapsible.json5",
+            "MD5": "7037be5b6b9694671847f0137562f1c7",
+            "size": 674288
+          }
+        },
+        {
+          "id": "nebula.file:config.json5:1.0.0@jar",
+          "name": "config.json5",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/roughlyenoughitems/config.json5",
+            "path": "config/roughlyenoughitems/config.json5",
+            "MD5": "04c37207557b09f13015f39417fb0f90",
+            "size": 42784
+          }
+        },
+        {
+          "id": "nebula.file:favorites.json5:1.0.0@jar",
+          "name": "favorites.json5",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/roughlyenoughitems/favorites.json5",
+            "path": "config/roughlyenoughitems/favorites.json5",
+            "MD5": "d2920f6e330ce7d7e6c2433aa1037a52",
+            "size": 61
+          }
+        },
+        {
+          "id": "nebula.file:hints.json:1.0.0@jar",
+          "name": "hints.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/roughlyenoughitems/hints.json",
+            "path": "config/roughlyenoughitems/hints.json",
+            "MD5": "38202b9e5b33ea2b0edb9d9dbc932418",
+            "size": 63
+          }
+        },
+        {
+          "id": "nebula.file:pinyin.properties:1.0.0@jar",
+          "name": "pinyin.properties",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/roughlyenoughitems/pinyin.properties",
+            "path": "config/roughlyenoughitems/pinyin.properties",
+            "MD5": "15893a063f55c5a877291eb8025969b3",
+            "size": 48
+          }
+        },
+        {
+          "id": "nebula.file:pinyin_double.properties:1.0.0@jar",
+          "name": "pinyin_double.properties",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/roughlyenoughitems/pinyin_double.properties",
+            "path": "config/roughlyenoughitems/pinyin_double.properties",
+            "MD5": "00c9245f3496a55510f7df214027908e",
+            "size": 73
+          }
+        },
+        {
+          "id": "nebula.file:safepastures.json:1.0.0@jar",
+          "name": "safepastures.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/safepastures/safepastures.json",
+            "path": "config/safepastures/safepastures.json",
+            "MD5": "dea4cf2d377d3a03b858608b5c28a80d",
+            "size": 1272
+          }
+        },
+        {
+          "id": "nebula.file:sodium-extra-options.json:1.0.0@jar",
+          "name": "sodium-extra-options.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/sodium-extra-options.json",
+            "path": "config/sodium-extra-options.json",
+            "MD5": "f86cf7b3e478244b85aefdb2e2d2ecc0",
+            "size": 1523
+          }
+        },
+        {
+          "id": "nebula.file:sodium-extra.properties:1.0.0@jar",
+          "name": "sodium-extra.properties",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/sodium-extra.properties",
+            "path": "config/sodium-extra.properties",
+            "MD5": "72b9d6dd6ada7b00ef334ee176054dbf",
+            "size": 360
+          }
+        },
+        {
+          "id": "nebula.file:sodium-fingerprint.json:1.0.0@jar",
+          "name": "sodium-fingerprint.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/sodium-fingerprint.json",
+            "path": "config/sodium-fingerprint.json",
+            "MD5": "68eaab0be51bdd85fa0e87003cf4096e",
+            "size": 427
+          }
+        },
+        {
+          "id": "nebula.file:sodium-mixins.properties:1.0.0@jar",
+          "name": "sodium-mixins.properties",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/sodium-mixins.properties",
+            "path": "config/sodium-mixins.properties",
+            "MD5": "a5b6a84e034d60be869ae33f2dba4e2b",
+            "size": 258
+          }
+        },
+        {
+          "id": "nebula.file:sodium-options.json:1.0.0@jar",
+          "name": "sodium-options.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/sodium-options.json",
+            "path": "config/sodium-options.json",
+            "MD5": "56fb9b2a69d5d493813f4b89da387fb7",
+            "size": 686
+          }
+        },
+        {
+          "id": "nebula.file:sodiumdynamiclights-client.toml:1.0.0@jar",
+          "name": "sodiumdynamiclights-client.toml",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/sodiumdynamiclights-client.toml",
+            "path": "config/sodiumdynamiclights-client.toml",
+            "MD5": "d3905742bcf3b51e5ff8815d9c7ff32b",
+            "size": 654
+          }
+        },
+        {
+          "id": "nebula.file:sophisticatedbackpacks-common.toml:1.0.0@jar",
+          "name": "sophisticatedbackpacks-common.toml",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/sophisticatedbackpacks-common.toml",
+            "path": "config/sophisticatedbackpacks-common.toml",
+            "MD5": "3c220b8881045a5364a3a8d7395974a8",
+            "size": 118
+          }
+        },
+        {
+          "id": "nebula.file:sophisticatedbackpacks-server-1.toml.bak:1.0.0@jar",
+          "name": "sophisticatedbackpacks-server-1.toml.bak",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/sophisticatedbackpacks-server-1.toml.bak",
+            "path": "config/sophisticatedbackpacks-server-1.toml.bak",
+            "MD5": "f8cbc3ee14f0950ebe9edec9d4557a39",
+            "size": 17075
+          }
+        },
+        {
+          "id": "nebula.file:sophisticatedbackpacks-server.toml:1.0.0@jar",
+          "name": "sophisticatedbackpacks-server.toml",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/sophisticatedbackpacks-server.toml",
+            "path": "config/sophisticatedbackpacks-server.toml",
+            "MD5": "4af91cf10e99778fdabc18bc51f603ba",
+            "size": 18705
+          }
+        },
+        {
+          "id": "nebula.file:sophisticatedcore-client.toml:1.0.0@jar",
+          "name": "sophisticatedcore-client.toml",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/sophisticatedcore-client.toml",
+            "path": "config/sophisticatedcore-client.toml",
+            "MD5": "139cac0f8e6cea3bfb7a0ece9570746f",
+            "size": 347
+          }
+        },
+        {
+          "id": "nebula.file:sophisticatedcore-common.toml:1.0.0@jar",
+          "name": "sophisticatedcore-common.toml",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/sophisticatedcore-common.toml",
+            "path": "config/sophisticatedcore-common.toml",
+            "MD5": "509457813c812c844022ad263c0d34a2",
+            "size": 90522
+          }
+        },
+        {
+          "id": "nebula.file:sophisticatedstorage-client.toml:1.0.0@jar",
+          "name": "sophisticatedstorage-client.toml",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/sophisticatedstorage-client.toml",
+            "path": "config/sophisticatedstorage-client.toml",
+            "MD5": "fc01a44ac04aae4b69a1b47bcf7926a7",
+            "size": 400
+          }
+        },
+        {
+          "id": "nebula.file:sophisticatedstorage-common.toml:1.0.0@jar",
+          "name": "sophisticatedstorage-common.toml",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/sophisticatedstorage-common.toml",
+            "path": "config/sophisticatedstorage-common.toml",
+            "MD5": "985f0395653070b4c10157c48ddc6319",
+            "size": 186
+          }
+        },
+        {
+          "id": "nebula.file:sophisticatedstorage-server-1.toml.bak:1.0.0@jar",
+          "name": "sophisticatedstorage-server-1.toml.bak",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/sophisticatedstorage-server-1.toml.bak",
+            "path": "config/sophisticatedstorage-server-1.toml.bak",
+            "MD5": "fde20da377cff8d884c9f60ae31e0afb",
+            "size": 21615
+          }
+        },
+        {
+          "id": "nebula.file:sophisticatedstorage-server.toml:1.0.0@jar",
+          "name": "sophisticatedstorage-server.toml",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/sophisticatedstorage-server.toml",
+            "path": "config/sophisticatedstorage-server.toml",
+            "MD5": "804ca862ca0179bc0eafa10fba2fc6c2",
+            "size": 24317
+          }
+        },
+        {
+          "id": "nebula.file:occlusion.properties:1.0.0@jar",
+          "name": "occlusion.properties",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/sound_physics_remastered/occlusion.properties",
+            "path": "config/sound_physics_remastered/occlusion.properties",
+            "MD5": "2fcec4d83b228f1afeb4b94690ecdbf4",
+            "size": 4879
+          }
+        },
+        {
+          "id": "nebula.file:reflectivity.properties:1.0.0@jar",
+          "name": "reflectivity.properties",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/sound_physics_remastered/reflectivity.properties",
+            "path": "config/sound_physics_remastered/reflectivity.properties",
+            "MD5": "a96fdc43367fe049dff56acbf204a79d",
+            "size": 4713
+          }
+        },
+        {
+          "id": "nebula.file:soundphysics.properties:1.0.0@jar",
+          "name": "soundphysics.properties",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/sound_physics_remastered/soundphysics.properties",
+            "path": "config/sound_physics_remastered/soundphysics.properties",
+            "MD5": "1819a3cbf350b2f03143b7ef400f77f0",
+            "size": 5105
+          }
+        },
+        {
+          "id": "nebula.file:sound_rates.properties:1.0.0@jar",
+          "name": "sound_rates.properties",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/sound_physics_remastered/sound_rates.properties",
+            "path": "config/sound_physics_remastered/sound_rates.properties",
+            "MD5": "e2c33f9de0bc719efc6d8238a69076f1",
+            "size": 76542
+          }
+        },
+        {
+          "id": "nebula.file:spawn_notification.json:1.0.0@jar",
+          "name": "spawn_notification.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/spawn_notification.json",
+            "path": "config/spawn_notification.json",
+            "MD5": "f7b4d6e45eaa5b9c54ccf04b30b8fffb",
+            "size": 1247
+          }
+        },
+        {
+          "id": "nebula.file:spudaciousshops.toml:1.0.0@jar",
+          "name": "spudaciousshops.toml",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/spudaciousshops.toml",
+            "path": "config/spudaciousshops.toml",
+            "MD5": "7eea43363bd779854dc1284f2b7f70aa",
+            "size": 29
+          }
+        },
+        {
+          "id": "nebula.file:stackdeobf.json:1.0.0@jar",
+          "name": "stackdeobf.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/stackdeobf.json",
+            "path": "config/stackdeobf.json",
+            "MD5": "a8086d06fdbdaa3c9712027d7f1a579e",
+            "size": 130
+          }
+        },
+        {
+          "id": "nebula.file:terrablender.toml:1.0.0@jar",
+          "name": "terrablender.toml",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/terrablender.toml",
+            "path": "config/terrablender.toml",
+            "MD5": "f833bc1281a0152f4e2abf27ee1ad512",
+            "size": 988
+          }
+        },
+        {
+          "id": "nebula.file:tim_core.json:1.0.0@jar",
+          "name": "tim_core.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/tim_core.json",
+            "path": "config/tim_core.json",
+            "MD5": "d2512e8703879de8e28e2414c348aee7",
+            "size": 651
+          }
+        },
+        {
+          "id": "nebula.file:villagerconfig.json5:1.0.0@jar",
+          "name": "villagerconfig.json5",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/VillagerConfig/villagerconfig.json5",
+            "path": "config/VillagerConfig/villagerconfig.json5",
+            "MD5": "c69cf1037ea113e6e42adc89bb995211",
+            "size": 647
+          }
+        },
+        {
+          "id": "nebula.file:category-volumes.properties:1.0.0@jar",
+          "name": "category-volumes.properties",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/voicechat/category-volumes.properties",
+            "path": "config/voicechat/category-volumes.properties",
+            "MD5": "47731f53ffef4a8a57c766a8091a5651",
+            "size": 46
+          }
+        },
+        {
+          "id": "nebula.file:player-volumes.properties:1.0.0@jar",
+          "name": "player-volumes.properties",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/voicechat/player-volumes.properties",
+            "path": "config/voicechat/player-volumes.properties",
+            "MD5": "881435f0ba9a0f1af1d2082d1298dcc4",
+            "size": 44
+          }
+        },
+        {
+          "id": "nebula.file:translations.properties:1.0.0@jar",
+          "name": "translations.properties",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/voicechat/translations.properties",
+            "path": "config/voicechat/translations.properties",
+            "MD5": "4af29bbbf5267fe4298e80c2e6ebca63",
+            "size": 1182
+          }
+        },
+        {
+          "id": "nebula.file:username-cache.json:1.0.0@jar",
+          "name": "username-cache.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/voicechat/username-cache.json",
+            "path": "config/voicechat/username-cache.json",
+            "MD5": "99914b932bd37a50b983c5e7c90ae93b",
+            "size": 2
+          }
+        },
+        {
+          "id": "nebula.file:voicechat-client.properties:1.0.0@jar",
+          "name": "voicechat-client.properties",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/voicechat/voicechat-client.properties",
+            "path": "config/voicechat/voicechat-client.properties",
+            "MD5": "74c96d6503ffa9cda94a5d70af85853c",
+            "size": 4897
+          }
+        },
+        {
+          "id": "nebula.file:voicechat-server.properties:1.0.0@jar",
+          "name": "voicechat-server.properties",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/voicechat/voicechat-server.properties",
+            "path": "config/voicechat/voicechat-server.properties",
+            "MD5": "34cf3bd4742d3f77aa52d69b189b3462",
+            "size": 2441
+          }
+        },
+        {
+          "id": "nebula.file:waystones-common.toml:1.0.0@jar",
+          "name": "waystones-common.toml",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/waystones-common.toml",
+            "path": "config/waystones-common.toml",
+            "MD5": "b1e3230637ee124a0daf96514c6913f5",
+            "size": 7899
+          }
+        },
+        {
+          "id": "nebula.file:strings.json:1.0.0@jar",
+          "name": "strings.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/worldedit/.archive-unpack/5f7cd289/af/strings.json",
+            "path": "config/worldedit/.archive-unpack/5f7cd289/af/strings.json",
+            "MD5": "8a80554c91d9fca8acb82f023de02f11",
+            "size": 3
+          }
+        },
+        {
+          "id": "nebula.file:masters.schem:1.0.0@jar",
+          "name": "masters.schem",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/worldedit/schematics/masters.schem",
+            "path": "config/worldedit/schematics/masters.schem",
+            "MD5": "868919b5ba915b103345904b3b3d7976",
+            "size": 449563
+          }
+        },
+        {
+          "id": "nebula.file:mestres.schem:1.0.0@jar",
+          "name": "mestres.schem",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/worldedit/schematics/mestres.schem",
+            "path": "config/worldedit/schematics/mestres.schem",
+            "MD5": "ccb778e4d8f2ef833726955db7ea3f6c",
+            "size": 595224
+          }
+        },
+        {
+          "id": "nebula.file:spawn.schem:1.0.0@jar",
+          "name": "spawn.schem",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/worldedit/schematics/spawn.schem",
+            "path": "config/worldedit/schematics/spawn.schem",
+            "MD5": "ebcd6db5ba62a84164dd942c4a8db769",
+            "size": 256329
+          }
+        },
+        {
+          "id": "nebula.file:worldedit.properties:1.0.0@jar",
+          "name": "worldedit.properties",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/worldedit/worldedit.properties",
+            "path": "config/worldedit/worldedit.properties",
+            "MD5": "49c54f902cec37eb7756188cfcfa2ae5",
+            "size": 2546
+          }
+        },
+        {
+          "id": "nebula.file:xaerominimap-common.txt:1.0.0@jar",
+          "name": "xaerominimap-common.txt",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/xaerominimap-common.txt",
+            "path": "config/xaerominimap-common.txt",
+            "MD5": "c4bb2d96ebd8182b307ef6b2fda27370",
+            "size": 145
+          }
+        },
+        {
+          "id": "nebula.file:xaerominimap.txt:1.0.0@jar",
+          "name": "xaerominimap.txt",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/xaerominimap.txt",
+            "path": "config/xaerominimap.txt",
+            "MD5": "430b1a035dceac3ccf6edb957183c95f",
+            "size": 3658
+          }
+        },
+        {
+          "id": "nebula.file:xaerominimap_entities.json:1.0.0@jar",
+          "name": "xaerominimap_entities.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/xaerominimap_entities.json",
+            "path": "config/xaerominimap_entities.json",
+            "MD5": "a5167492150055fa942d794718166e13",
+            "size": 5554
+          }
+        },
+        {
+          "id": "nebula.file:xaeroworldmap-common.txt:1.0.0@jar",
+          "name": "xaeroworldmap-common.txt",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/xaeroworldmap-common.txt",
+            "path": "config/xaeroworldmap-common.txt",
+            "MD5": "5a2200d083554257d61384f2c486162b",
+            "size": 120
+          }
+        },
+        {
+          "id": "nebula.file:xaeroworldmap.txt:1.0.0@jar",
+          "name": "xaeroworldmap.txt",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/xaeroworldmap.txt",
+            "path": "config/xaeroworldmap.txt",
+            "MD5": "1ee539539257cc49a64c826d7175a631",
+            "size": 1219
+          }
+        },
+        {
+          "id": "nebula.file:yacl.json5:1.0.0@jar",
+          "name": "yacl.json5",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/yacl.json5",
+            "path": "config/yacl.json5",
+            "MD5": "9378f7cef65c5208431350700cf83a11",
+            "size": 250
+          }
+        },
+        {
+          "id": "nebula.file:zoomify.json:1.0.0@jar",
+          "name": "zoomify.json",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://raw.githubusercontent.com/luppz-launchers/cobblefabric/main/config/zoomify.json",
+            "path": "config/zoomify.json",
+            "MD5": "c0509955740d61804de166a0860cd46f",
+            "size": 714
+          }
         }
       ]
     }
