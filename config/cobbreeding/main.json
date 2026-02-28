@@ -1,0 +1,24 @@
+{
+  "eggCheckTicks": 3600,
+  "eggCheckChance": 0.5,
+  "eggHatchMultiplier": 2.0,
+  "shinyMethod": [
+    "always"
+  ],
+  "shinyMultiplier": 16.0,
+  "hiddenAbilitiesEnabled": true,
+  "forcedAbilitiesEnabled": false,
+  "dittoAndDittoRandomEgg": false,
+  "dittoAndDittoAllowLegendary": false,
+  "dittoAndDittoAllowParadox": false,
+  "dittoAndDittoAllowUltraBeast": false,
+  "dittoAndDittoAllowUndiscovered": false,
+  "customColors": true,
+  "allowHoppersToPullFromPastureBlock": true,
+  "blacklistedAspects": [
+    "shiny",
+    "male",
+    "female",
+    "sheared"
+  ]
+}

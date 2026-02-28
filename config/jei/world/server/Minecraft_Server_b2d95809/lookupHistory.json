@@ -1,0 +1,14 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"tmcraft:tm_firelash"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tmcraft:tm_behemothblade"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon:calcium"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemonraiddens:raid_crystal_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mega_showdown:star_core"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mega_showdown:wishing_star"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemonraiddens:raid_pouch"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"rctmod:trainer_card"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"mega_showdown:mega_stone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"lumymon:zeraorite"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"lumymon:hawluchanite"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

@@ -1,0 +1,51 @@
+{
+  "capsules": {
+    "normal": {
+      "pokemonSpawnChance": 0.15,
+      "pokemonMinLevel": 5,
+      "pokemonMaxLevel": 20,
+      "pokemonPool": [
+        "common",
+        "uncommon"
+      ],
+      "poolMinWeight": 1.0,
+      "poolMaxWeight": 100.0,
+      "customList": []
+    },
+    "ultra_rare": {
+      "pokemonSpawnChance": 0.5,
+      "pokemonMinLevel": 30,
+      "pokemonMaxLevel": 50,
+      "pokemonPool": [
+        "ultra-rare"
+      ],
+      "poolMinWeight": 0.001,
+      "poolMaxWeight": 100.0,
+      "customList": []
+    },
+    "legendary": {
+      "pokemonSpawnChance": 1.0,
+      "pokemonMinLevel": 50,
+      "pokemonMaxLevel": 100,
+      "pokemonPool": [
+        "legendary",
+        "mythical"
+      ],
+      "poolMinWeight": 0.001,
+      "poolMaxWeight": 100.0,
+      "customList": []
+    },
+    "rare": {
+      "pokemonSpawnChance": 0.3,
+      "pokemonMinLevel": 15,
+      "pokemonMaxLevel": 35,
+      "pokemonPool": [
+        "uncommon",
+        "rare"
+      ],
+      "poolMinWeight": 0.01,
+      "poolMaxWeight": 10.0,
+      "customList": []
+    }
+  }
+}
