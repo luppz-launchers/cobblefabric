@@ -12,9 +12,6 @@
       "minecraftVersion": "1.21.1",
       "mainServer": false,
       "autoconnect": false,
-      "fabric": {
-        "version": "0.18.4"
-      },
       "modules": [
         {
           "id": "nebula.fabric:fabricfabric-loader:1.0.0@jar",
@@ -1061,6 +1058,258 @@
             "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/Only.Bottle.Caps-1.3.0.jar",
             "MD5": "2380d10d347cf1c18dfdf9eec429f599",
             "size": 250451
+          }
+        },
+        {
+          "id": "nebula.file:fullyhisuianstartersrp.zip:1.0.0@jar",
+          "name": "FullyHisuianStarters RP.zip",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/FullyHisuianStarters.RP.zip",
+            "path": "resourcepacks/FullyHisuianStarters RP.zip",
+            "MD5": "5af74359171325a2be71c414848bdb63",
+            "size": 198592
+          }
+        },
+        {
+          "id": "nebula.file:cobblecatsrp.zip:1.0.0@jar",
+          "name": "CobbleCats RP.zip",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/CobbleCats.RP.zip",
+            "path": "resourcepacks/CobbleCats RP.zip",
+            "MD5": "be460fe0c5b3e5815c36cdc8749a2dc6",
+            "size": 495058
+          }
+        },
+        {
+          "id": "nebula.file:cobbleverserctmodrp.zip:1.0.0@jar",
+          "name": "COBBLEVERSE RCTmod RP.zip",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/COBBLEVERSE.RCTmod.RP.zip",
+            "path": "resourcepacks/COBBLEVERSE RCTmod RP.zip",
+            "MD5": "6fc36264e720c3a1af015c755e32d999",
+            "size": 5128483
+          }
+        },
+        {
+          "id": "nebula.file:cobblemoninterfacev1.6.0.zip:1.0.0@jar",
+          "name": "Cobblemon Interface v1.6.0.zip",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/Cobblemon.Interface.v1.6.0.zip",
+            "path": "resourcepacks/Cobblemon Interface v1.6.0.zip",
+            "MD5": "03cacbf0b647173ae6707cc74c10866c",
+            "size": 14108266
+          }
+        },
+        {
+          "id": "nebula.file:mysticmons_v3.2.1.zip:1.0.0@jar",
+          "name": "MysticMons_v3.2.1.zip",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/MysticMons_v3.2.1.zip",
+            "path": "resourcepacks/MysticMons_v3.2.1.zip",
+            "MD5": "931746aa20e8ae1f6a358f27e28a23bf",
+            "size": 1268389
+          }
+        },
+        {
+          "id": "nebula.file:cobblemon3dpokrods1.0.zip:1.0.0@jar",
+          "name": "Cobblemon 3D Poké Rods 1.0.zip",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/Cobblemon.3D.Poke.Rods.1.0.zip",
+            "path": "resourcepacks/Cobblemon 3D Poké Rods 1.0.zip",
+            "MD5": "3f9942822210093cd9bed79ce3ae8a0c",
+            "size": 167546
+          }
+        },
+        {
+          "id": "nebula.file:e19cobblemonminimapicons.zip:1.0.0@jar",
+          "name": "E19 Cobblemon Minimap Icons.zip",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/E19.Cobblemon.Minimap.Icons.zip",
+            "path": "resourcepacks/E19 Cobblemon Minimap Icons.zip",
+            "MD5": "8773266a08ab37788df0b926aae82042",
+            "size": 15941923
+          }
+        },
+        {
+          "id": "nebula.file:cobbleutils_rp.zip:1.0.0@jar",
+          "name": "CobbleUtils_RP.zip",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/CobbleUtils_RP.zip",
+            "path": "resourcepacks/CobbleUtils_RP.zip",
+            "MD5": "1c9260d9b4c67c72335b0cff4a67e5af",
+            "size": 29879
+          }
+        },
+        {
+          "id": "nebula.file:allthemonsr3.1.zip:1.0.0@jar",
+          "name": "AllTheMons [R3.1].zip",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/AllTheMons.R3.1.zip",
+            "path": "resourcepacks/AllTheMons [R3.1].zip",
+            "MD5": "ccead4f718978532bb9655e94c14b3c4",
+            "size": 10821188
+          }
+        },
+        {
+          "id": "nebula.file:ashimonsrp.zip:1.0.0@jar",
+          "name": "AshiMons RP.zip",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/AshiMons.RP.zip",
+            "path": "resourcepacks/AshiMons RP.zip",
+            "MD5": "f9f869920a771088b1825dbda80a3e36",
+            "size": 88430
+          }
+        },
+        {
+          "id": "nebula.file:bonimonsrp.zip:1.0.0@jar",
+          "name": "BoniMons RP.zip",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/BoniMons.RP.zip",
+            "path": "resourcepacks/BoniMons RP.zip",
+            "MD5": "7af040db5dc9aca9e56bdb25bc062e89",
+            "size": 134789
+          }
+        },
+        {
+          "id": "nebula.file:cavscobblemonsrp.zip:1.0.0@jar",
+          "name": "CavsCobbleMons RP.zip",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/CavsCobbleMons.RP.zip",
+            "path": "resourcepacks/CavsCobbleMons RP.zip",
+            "MD5": "48b1e477d81842188d3fc25523dab1ac",
+            "size": 293191
+          }
+        },
+        {
+          "id": "nebula.file:cloudmonsrp.zip:1.0.0@jar",
+          "name": "CloudMons RP.zip",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/CloudMons.RP.zip",
+            "path": "resourcepacks/CloudMons RP.zip",
+            "MD5": "42e98a96b20c0bd8fcc1a336c59c7839",
+            "size": 101529
+          }
+        },
+        {
+          "id": "nebula.file:cobbleverserp.zip:1.0.0@jar",
+          "name": "COBBLEVERSE RP.zip",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/COBBLEVERSE.RP.zip",
+            "path": "resourcepacks/COBBLEVERSE RP.zip",
+            "MD5": "c2ec09246d465971c1ca5623f87ea25f",
+            "size": 1441013
+          }
+        },
+        {
+          "id": "nebula.file:missingmonsrp.zip:1.0.0@jar",
+          "name": "MissingMons RP.zip",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/MissingMons.RP.zip",
+            "path": "resourcepacks/MissingMons RP.zip",
+            "MD5": "5b31d8d82aae4326a9a0bcf6112decb0",
+            "size": 1354902
+          }
+        },
+        {
+          "id": "nebula.file:mundialmonsrp.zip:1.0.0@jar",
+          "name": "MundialMons RP.zip",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/MundialMons.RP.zip",
+            "path": "resourcepacks/MundialMons RP.zip",
+            "MD5": "f05d9980a63fe6f17d16f43b1d22efda",
+            "size": 1057527
+          }
+        },
+        {
+          "id": "nebula.file:navas-z-a-megarp.zip:1.0.0@jar",
+          "name": "Navas-Z-A-Mega RP.zip",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/Navas-Z-A-Mega.RP.zip",
+            "path": "resourcepacks/Navas-Z-A-Mega RP.zip",
+            "MD5": "56f0d02b033072a7cd20ce1ff4e8dd26",
+            "size": 1170703
+          }
+        },
+        {
+          "id": "nebula.file:odysseymonsrp.zip:1.0.0@jar",
+          "name": "OdysseyMons RP.zip",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/OdysseyMons.RP.zip",
+            "path": "resourcepacks/OdysseyMons RP.zip",
+            "MD5": "34c5661540940568f1c734436242b597",
+            "size": 247539
+          }
+        },
+        {
+          "id": "nebula.file:planetacobblemonrp.zip:1.0.0@jar",
+          "name": "PlanetaCobblemon RP.zip",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/PlanetaCobblemon.RP.zip",
+            "path": "resourcepacks/PlanetaCobblemon RP.zip",
+            "MD5": "c16483ac1aaa02225c983b8a7e50892f",
+            "size": 138557
+          }
+        },
+        {
+          "id": "nebula.file:tdmonrp.zip:1.0.0@jar",
+          "name": "TDmon RP.zip",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/TDmon.RP.zip",
+            "path": "resourcepacks/TDmon RP.zip",
+            "MD5": "4ff63f5abeca1a9c88b5168eae646215",
+            "size": 229320
+          }
+        },
+        {
+          "id": "nebula.file:mellomonsrp.zip:1.0.0@jar",
+          "name": "MelloMons RP.zip",
+          "type": "File",
+          "classpath": false,
+          "artifact": {
+            "url": "https://github.com/luppz-launchers/cobblefabric/releases/download/v1.0.0/MelloMons.RP.zip",
+            "path": "resourcepacks/MelloMons RP.zip",
+            "MD5": "8bd9c4bf34b5f14db96c76b9c06001f8",
+            "size": 31681
           }
         }
       ]
